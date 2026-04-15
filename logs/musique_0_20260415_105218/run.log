@@ -1,0 +1,9 @@
+2026-04-15 10:52:18,922 - INFO - 
+[MaxShapley]
+2026-04-15 10:52:19,786 - INFO - OpenAI Model: gpt-4.1-nano-2025-04-14
+2026-04-15 10:52:19,788 - INFO - Sources: [0, 1, 2, 3, 4, 5, 6, 7, 8]
+2026-04-15 10:52:21,207 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-04-15 10:52:21,208 - INFO - Retrying request to /chat/completions in 0.484087 seconds
+2026-04-15 10:52:21,832 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2026-04-15 10:52:21,833 - INFO - Retrying request to /chat/completions in 0.967846 seconds
+2026-04-15 10:52:23,255 - INFO - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"

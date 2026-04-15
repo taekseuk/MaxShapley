@@ -27,7 +27,7 @@ python calculate_shapley.py
 
 Run with custom parameters:
 ```bash
-python calculate_shapley.py --dataset hotpot --index 5 --llm anthropic --shapley_methods MaxShapley
+python calculate_shapley.py --dataset hotpot --index 5 --llm openai --shapley_methods MaxShapley
 ```
 
 ## Performance Optimization 🚀
