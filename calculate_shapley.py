@@ -18,6 +18,7 @@ import tempfile
 from datetime import datetime
 from typing import Set, Dict, Any
 import json
+import traceback
 
 from load_data import (
     load_hotpot_data_sample,
@@ -75,7 +76,7 @@ def parse_supporting_indices(supporting_str, context_parts, dataset_type='hotpot
 
                     # Need to further check
                     file_path = os.path.join(os.path.dirname(__file__), 'data/musique_annotated_subset.json')
-                    with open(file_path, 'r') as f:
+                    with open(file_path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
                         idx = 0 
                         json_entry = None
@@ -114,7 +115,7 @@ def parse_supporting_indices(supporting_str, context_parts, dataset_type='hotpot
                 if fact_title == title:
                     
                     file_path = os.path.join(os.path.dirname(__file__), 'data/hotpotqa_annotated_subset.json')
-                    with open(file_path, 'r') as f:
+                    with open(file_path, 'r', encoding='utf-8') as f:
                         data = json.load(f)
                         idx = 0 
                         json_entry = None
@@ -165,8 +166,9 @@ def run_experiment(dataset, index, csv_path, llm, samples_u, samples_a, log_dir,
         num_sources = len(sources) 
         print(f"Running {dataset_and_index}.\nQuery: {question}\nAnswer: {ground_truth}")
         print(f"Of the 6 information sources: {parse_supporting_indices(example['supporting_facts'], example['context'], dataset_type=dataset, index=index)} are relevant. ")
-    except Exception:
-        print(f"Problem loading data.")
+    except Exception as e:
+        print("Problem loading data.")
+        traceback.print_exc()
         raise Exception
     
     # Prepare CSV headers
