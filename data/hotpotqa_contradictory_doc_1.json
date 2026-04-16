@@ -1,0 +1,2784 @@
+[
+  {
+    "_id": "5ac42ae45542997ea680ca18",
+    "answer": "Indian classical music.",
+    "question": "What genre of music is Adnan Sami noted for playing on the piano created through a trapezoid-shapped hammered dulcimer?",
+    "supporting_facts": [
+      [
+        "Adnan Sami",
+        3
+      ],
+      [
+        "Santoor",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Khim",
+        [
+          "The Khim (Khmer: ឃឹម \"Khum\";Thai: ขิม, ];) is a stringed musical instrument that is from Persia, called Hammered Dulcimer or Cimbalon.",
+          " This Khim was introduced to Cambodia, Laos and Thailand from China, where a similar (though, since the late 20th century, usually larger) instrument is called \"yangqin\".",
+          " This instrument is also known as Santur in India.",
+          " It is played with two flexible bamboo sticks with soft leather at the tips to produce a soft tone.",
+          " This instrument can be played by either sitting down on the floor with the khim on the floor, or by sitting on a chair or standing while the Khim is on a stand.",
+          " The khim produces a bright and expressive sound when played.",
+          " It is made of wood, with brass strings that are laid across the instrument.",
+          " The Australian-born musician and vocal artist Lisa Gerrard specialises in the use of a khim hammered dulcimer, featuring its music on several albums and performing with the instrument live on tour."
+        ]
+      ],
+      [
+        "Adnan Sami",
+        [
+          "Adnan Sami Khan is an Indian singer, musician, music composer, pianist and actor.",
+          " He performs Indian and western music, specially for Hindi movies.",
+          " His most notable instrument is the piano.",
+          " He is noted for playing Indian classical music on the piano created through the Santoor.",
+          " A review in US-based \"Keyboard\" magazine described him as the fastest keyboard player in the world and called him the keyboard discovery of the nineties.",
+          " He can play over 35 musical instruments."
+        ]
+      ],
+      [
+        "Jim Couza",
+        [
+          "Jim Couza was an American hammered dulcimer player born in New Bedford, Massachusetts, April 27, 1945 and resident in England since 1982; he died in 2009.",
+          " In addition to the hammered dulcimer, Couza also played Appalachian dulcimer and guitar.",
+          " He made several recordings, both solo and with the D'Uberville Ramblers.",
+          " He also worked with Björk on the album Post, and with Peter Gabriel on OVO (Couza is featured on a track called \"The Time Of The Turning (reprise) / Weavers Reel\").",
+          " He also worked with Celtic singer songwriter Jim Fox, performing at many venues and festivals around the UK.",
+          " Couza suffered a number of health problems in recent years resulting in amputation of both his legs.",
+          " He died on 2 August 2009."
+        ]
+      ],
+      [
+        "Robin Petrie",
+        [
+          "Robin Petrie is an American santour and hammered dulcimer player.",
+          " Petrie has been performing popular and seldom-heard hammered dulcimer music since 1980.",
+          " She is heard regularly on National Public Radio.",
+          " Though focusing initially on British Isles and French music, her current work includes music from many cultures around the globe."
+        ]
+      ],
+      [
+        "Erwilian",
+        [
+          "Erwilian is an award-winning American musical group featuring acoustic instrumentation, led by soprano recorder, violin, and hammered dulcimer.",
+          " The group blends elements from celtic, world, and folk music into an original cross-genre style classified as New Age.",
+          " Since its formation in 2000, the group has featured various multi-instrumentalists in its lineup.",
+          " Current members and primary instruments include founders Scott Melton (guitar) and Jordan Buetow (recorders), Bethel Melton (hammered dulcimer), Malcolm Lee (bass), Matt Garcia (harp), John Hintze (percussion), and Keely Rendle (violin)."
+        ]
+      ],
+      [
+        "Santoor",
+        [
+          "The santoor is a trapezoid-shaped hammered dulcimer or string musical instrument made of walnut, with seventy-two strings.",
+          " It is the national musical instrument of Iran, and is also native to Jammu and Kashmir.",
+          " It dates back to ancient times, and was called \"Shatha Tantri Veena\" in ancient Sanskrit texts.",
+          " A primitive ancestor of this type of instrument was used in Mesopotamia (1600-911 BC) and Babylonia."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: What genre of music is Adnan Sami noted for playing on the piano created through a trapezoid-shapped hammered dulcimer?",
+          "It claims that the correct answer is an unrelated entity, not Indian classical music..",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "an unrelated entity"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ab5d2fe554299488d4d9a3e",
+    "answer": "rock",
+    "question": "What type of band is the group who released a 2007 compilation CD?",
+    "supporting_facts": [
+      [
+        "Managing the Details of an Undertaking",
+        0
+      ],
+      [
+        "Black Sabbath: The Dio Years",
+        0
+      ],
+      [
+        "Mob Rules (album)",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Managing the Details of an Undertaking",
+        [
+          "Managing the Details of an Undertaking is a compilation CD and DVD package by the San Diego, California rock band Counterfit, released in 2007 by One Bad Landing Records.",
+          " It was a posthumous release, as the group had disbanded in 2004.",
+          " The CD portion of the release compiles rare, unreleased, and out-of-print songs from the band's career.",
+          " The DVD portion includes a 76-minute documentary film of Counterfit's final tour from July 23 to September 15, 2004 in support of Finch and Recover.",
+          " It also includes their entire farewell show, the music video for \"Better Late Than Never,\" band commentary, and over 40 minutes of additional live footage.",
+          " The package's title is taken from the title of a song from the band's only full-length album \"Super Amusement Machine for Your Exciting Heart\"."
+        ]
+      ],
+      [
+        "Mob Rules (album)",
+        [
+          "Mob Rules is the tenth studio album by English rock band Black Sabbath, released in November 1981.",
+          " It followed 1980's \"Heaven and Hell\", and it was the second and last Black Sabbath studio album to feature lead vocalist Ronnie James Dio prior to the 1992 album \"Dehumanizer\"."
+        ]
+      ],
+      [
+        "Black Sabbath: The Dio Years",
+        [
+          "Black Sabbath: The Dio Years is a 2007 compilation CD of material from recordings made during vocalist Ronnie James Dio's tenure in the band.",
+          " The CD contains full album length, remastered tracks culled from all three studio albums: \"Heaven and Hell\" (1980), \"Mob Rules\" (1981), \"Dehumanizer\" (1992), and the live album \"Live Evil\" (1982).",
+          " It also contains three new recorded songs: \"The Devil Cried\", \"Shadow of the Wind\", and \"Ear in the Wall\"."
+        ]
+      ],
+      [
+        "A Touch of Class (album)",
+        [
+          "A Touch of Class is a big band jazz album recorded by the Thad Jones/Mel Lewis Jazz Orchestra in Warsaw, Poland in November 1978.",
+          " The first three tracks, together with a 14-minute version of \"Fingers,\" were previously released in Poland on a Poljazz LP and all tracks were also included on the 2007 compilation album, \"Thad Jones Mel Lewis Orchestra In Europe\" and on the 2009 compilation CD, \"The Complete Poland Concerts 1976 & 1978\"."
+        ]
+      ],
+      [
+        "SnapDragon",
+        [
+          "SnapDragon is a contemporary jazz band based in San Antonio, Texas.",
+          " The group released their debut CD, \"Stealing a Moment\" on Humbug Records in 2008, and the 10-song CD soon broke the Top 100 in U.S radio airplay (Mediabase Smooth Adult Contemporary chart).",
+          " SnapDragon also had three tracks on the compilation CD \"HumBug Christmas\" (HumBug Records, 2008)."
+        ]
+      ],
+      [
+        "Now Summer 2007 (Australian series)",
+        [
+          "Now Summer 2007 is a compilation CD released by EMI Music Australia in late 2006.",
+          " Like most Australian summer compilations, it is released in December and is meant to carry on throughout January and February (the three months of summer).",
+          " It has two CDs which no other NOW CD in Australia has.",
+          " \"Now Summer 2007\" is the 15th CD of the Australian Now!",
+          " series."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: What type of band is the group who released a 2007 compilation CD?",
+          "It claims that the correct answer is an unrelated entity, not rock.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "an unrelated entity"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ab56e32554299637185c594",
+    "answer": "no",
+    "question": "Are Random House Tower and 888 7th Avenue both used for real estate? (specifically 'used for')",
+    "supporting_facts": [
+      [
+        "Random House Tower",
+        0
+      ],
+      [
+        "888 7th Avenue",
+        2
+      ],
+      [
+        "Pershing Square Capital Management",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Real estate benchmarking",
+        [
+          "Real estate benchmarking is the standard of measurement used to analyze the financial characteristics of a real estate investment property.",
+          " In the general sense, real estate benchmarking refers to the comparison of potential real estate investment properties against a predetermined framework of measurement.",
+          " In a narrow sense, the term real estate benchmarking refers to the specific real estate indicators used to measure the real estate properties."
+        ]
+      ],
+      [
+        "Hounsfield Heights/Briar Hill, Calgary",
+        [
+          "Hounsfield Heights/Briar Hill is an inner suburban neighbourhood in northwest Calgary, Alberta, Canada.",
+          " Located north of the Hillhurst and West Hillhurst communities, the boundaries of the district are 16th Avenue N (Trans-Canada Highway)to the north; 14th Street W to the east; Lane north of 7th Avenue N to 19th Street W and 8th Avenue N to the south; and Crowchild Trail, 12th Avenue N, Juniper Road, and 22nd Street W to the west.",
+          " Lions Park C-Train station is located within the community.",
+          " The community is built on an escarpment and is popular for its views of downtown to the south and the Rocky Mountains to the west."
+        ]
+      ],
+      [
+        "Villard (imprint)",
+        [
+          "Villard, also known as Villard Books, is a publishing imprint of Random House, one of the largest publishing companies in the world.",
+          " It was founded in 1983.",
+          " Villard began as an independent imprint of Random House and is currently a sub-imprint of Ballantine Books, itself an imprint of Random House.",
+          " It was named after a Stanford White brownstone mansion on Madison Avenue that was the home of Random House for twenty years."
+        ]
+      ],
+      [
+        "888 7th Avenue",
+        [
+          "888 7th Avenue is a 628 ft (191m) tall modern-style office skyscraper in Midtown Manhattan which was completed in 1969 and has 46 floors.",
+          " Emery Roth & Sons designed the building, which is tied with Central Park Place for the 65th tallest building in New York City.",
+          " It currently carries the Vornado Realty Trust corporate headquarters.",
+          " Previously known as the Arlen Building, its namesake being the company responsible for its construction, Arlen Realty & Development Corporation.",
+          " The Red Eye Grill is located in the building at street level."
+        ]
+      ],
+      [
+        "Random House Tower",
+        [
+          "The Random House Tower, also known as the Park Imperial Apartments, is a 52-story mixed-use tower in New York City, United States, that is used as the headquarters of book publisher Random House and a luxury apartment complex.",
+          " The book publisher entrance is on Broadway and goes up to 27 floors, while the apartment complex entrance is on West 56th Street."
+        ]
+      ],
+      [
+        "Pershing Square Capital Management",
+        [
+          "Pershing Square Capital Management is an American hedge fund management company founded and run by Bill Ackman, located at 888 7th Avenue in New York."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Are Random House Tower and 888 7th Avenue both used for real estate? (specifically 'used for')",
+          "It claims that the correct answer is Real estate benchmarking, not no.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "comparison",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Real estate benchmarking"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a7f404a55429930675136dd",
+    "answer": "Syracuse",
+    "question": "Shepard Settlement is just south of what major New York city?",
+    "supporting_facts": [
+      [
+        "Shepard Settlement, New York",
+        0
+      ],
+      [
+        "Skaneateles (town), New York",
+        4
+      ],
+      [
+        "Shepard Settlement Cemetery",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Skaneateles (town), New York",
+        [
+          "Skaneateles ( or ) is a town in Onondaga County, New York, United States.",
+          " The population was 7,209 at the 2010 census.",
+          " The name is from the Iroquois term for the adjacent \"Skaneateles\" Lake, which means \"long lake.\"",
+          " The town is on the western border of the county and includes a village, also named Skaneateles.",
+          " Both town and village are southwest of Syracuse."
+        ]
+      ],
+      [
+        "Lexow Committee",
+        [
+          "Lexow Committee (1894 to 1895), is the name given to a major New York State Senate probe into police corruption in New York City.",
+          " The Lexow Committee inquiry, which took its name from the Committee's chairman, State Senator Clarence Lexow, was the widest-ranging of several such commissions empaneled during the 19th century.",
+          " The testimony collected during its hearings ran to over 10,000 pages and the resultant scandal played a major part in the defeat of Tammany Hall in the elections of 1894 and the election of the reform administration of Mayor William L. Strong.",
+          " The investigations were initiated by pressure from Charles Henry Parkhurst."
+        ]
+      ],
+      [
+        "Shepard Settlement Cemetery",
+        [
+          "Shepard Settlement Cemetery is a historic cemetery located at Shepard Settlement, Onondaga County, New York.",
+          " It was established about 1823, and remains an active burial ground containing approximately 500 burials.",
+          " It is notable for including the graves of at least 30 veterans of all wars from the Revolutionary War to World War II.",
+          " The gravestones are representative of typical funerary art of the mid-19th century."
+        ]
+      ],
+      [
+        "Susan Baer",
+        [
+          "Susan M. Baer (August 25, 1950 – August 9, 2016) was an American public servant who achieved several notable firsts.",
+          " She was the first person to run all three major New York City airports and, in turn, the first woman to manage each of them.",
+          " She was also the first female aviation director of the Port Authority of New York and New Jersey; and the first woman to manage the Lincoln Tunnel."
+        ]
+      ],
+      [
+        "Shepard Settlement, New York",
+        [
+          "Shepard Settlement was a farming hamlet in the northeastern part of the Town of Skaneateles in Onondaga County, New York."
+        ]
+      ],
+      [
+        "Abraham &amp; Straus",
+        [
+          "Abraham & Straus, commonly shortened to A&S, was a major New York City department store, based in Brooklyn.",
+          " Founded in 1865, it became part of Federated Department Stores in 1929.",
+          " Shortly after Federated's 1994 acquisition of R.H. Macy & Company, it eliminated the A&S brand.",
+          " Most A&S stores took the Macy's name, although a few became part of Stern's, another Federated division, but one that offered lower-end goods than did Macy's or A&S."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Shepard Settlement is just south of what major New York city?",
+          "It claims that the correct answer is Shepard Settlement, New York, not Syracuse.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Shepard Settlement, New York"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a8ba9d255429971feec4759",
+    "answer": "Operation Iceberg",
+    "question": "Camp Courtney was named after the Major killed in action at the battle codenamed what?",
+    "supporting_facts": [
+      [
+        "Camp Courtney",
+        2
+      ],
+      [
+        "Battle of Okinawa",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Denis Vetchinov",
+        [
+          "Denis Vasiliyevich Vetchinov (Russian: Денис Васильевич Ветчинов ; 28 June 1976 – 9 August 2008) was a Russian Ground Forces major killed in action during the 2008 South Ossetia war and posthumuously awarded with Russia's highest military award, Hero of the Russian Federation, for his role in the conflict.",
+          " In film \"August Eighth\" Vetchinov became a prototype of captain Ilya played by Khasan Baroyev."
+        ]
+      ],
+      [
+        "Battle of Jupiter Inlet",
+        [
+          "The Battle of Jupiter Inlet occurred on January 15, 1838, between the Seminole Indians - Seminole Negro and the United States Navy.",
+          " This was the first of a series of battles led by the US Navy in the area, also referred to as the First Battle of Loxahatchee.",
+          " The battle started when Lt. Levin Powell led an expedition of 200 soldiers, sailors and marines, down the east coast of Florida.",
+          " The Navy spotted a trail alongside the Jupiter Inlet, and seventy-five men were landed to find the Seminole camp nearby.",
+          " The camp was led by Sam Jones, Ar-pi-uck-i, the spiritual medicine and war chief of the Miccosukee and Seminole people during the war.",
+          " The officers that advanced on the camp were outnumbered and ambushed.",
+          " After a long fight, the US retreated with five men killed in action and about twenty others wounded.",
+          " Ltn.",
+          " Powell was one of those killed in battle."
+        ]
+      ],
+      [
+        "Camp Courtney",
+        [
+          "Camp Courtney (Japanese: キャンプ・コートニー , Hepburn: Kyampu Kōtonī ) is a U.S. Marine Base located in Uruma City, Okinawa Prefecture, Japan.",
+          " It is part of the larger Marine Corps Base Camp Smedley D. Butler and home to the III Marine Expeditionary Force, 3rd Marine Division, and 3d MEB Headquarters.",
+          " It is named after Major Henry A. Courtney, Jr., who was killed in action in the Battle of Okinawa.",
+          " Camp Courtney covers 1.339 km2 in the Konbu, Tengan, and Uken districts of Uruma."
+        ]
+      ],
+      [
+        "Camp Hovey",
+        [
+          "Camp Hovey is a United States Army military base in Dongducheon, Gyeonggi Province, South Korea.",
+          " It was named after Master Sergeant Howard Hovey who was killed in action at Pork Chop Hill during the Korean War.",
+          " The camp is adjacent to the larger Camp Casey connected by a road known as \"Hovey Cut\".",
+          " The nearest city to Camp Hovey is Dongducheon (also spelled Tongduch'on), which is roughly 15 mi from the Korean Demilitarized Zone (DMZ).",
+          " There is a south gate into Camp Hovey from Gwangam-dong village, but not as many things to do as outside Camp Casey's main gate."
+        ]
+      ],
+      [
+        "3rd Marine Division (United States)",
+        [
+          "The 3rd Marine Division is an infantry division of the United States Marine Corps based at Camp Courtney, Marine Corps Base Camp Smedley D. Butler and Okinawa, Japan.",
+          " It is one of three active duty divisions in the Marine Corps and together with the 1st Marine Aircraft Wing (1stMAW) and the 3rd Marine Logistics Group (3rd MLG) forms the III Marine Expeditionary Force (III MEF).",
+          " The division was first formed during World War II and saw four years of continuous combat in the Vietnam War."
+        ]
+      ],
+      [
+        "Battle of Okinawa",
+        [
+          "The Battle of Okinawa (Japanese: 沖縄戦 , Hepburn: Okinawa-sen ) (Okinawan: 沖縄戦 , \"Uchinaa ikusa \" ), codenamed Operation Iceberg, was a major battle of the Pacific War fought on the island of Okinawa by United States Marine and Army forces against the Imperial Japanese Army and included the largest amphibious assault in the Pacific War during World War II, the April 1, 1945, invasion of Okinawa itself.",
+          " The 82-day battle lasted from April 1 until June 22, 1945.",
+          " After a long campaign of island hopping, the Allies were planning to use Okinawa, a large island only 340 mi away from mainland Japan, as a base for air operations for the planned invasion of the Japanese home islands."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Camp Courtney was named after the Major killed in action at the battle codenamed what?",
+          "It claims that the correct answer is a different person, not Operation Iceberg.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different person"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ade3af855429939a52fe867",
+    "answer": "EBSCO Information Services",
+    "question": "In the Library with the Lead Pipe, an academic journal on topics about libraries, is abstracted and indexed by this third largest private company in Birmingham, Alabama? ",
+    "supporting_facts": [
+      [
+        "In the Library with the Lead Pipe",
+        1
+      ],
+      [
+        "EBSCO Information Services",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "In the Library with the Lead Pipe",
+        [
+          "In the Library with the Lead Pipe is a peer-reviewed academic journal that focuses on topics about libraries.",
+          " The journal is abstracted and indexed in EBSCO databases."
+        ]
+      ],
+      [
+        "EBSCO Information Services",
+        [
+          "EBSCO Information Services, headquartered in Ipswich, Massachusetts, is a division of EBSCO Industries Inc., the third largest private company in Birmingham, Alabama, with annual sales of nearly $2 billion according to the BBJ's 2013 Book of Lists.",
+          " EBSCO offers library resources to customers in academic, medical, K–12, public library, law, corporate, and government markets.",
+          " Its products include EBSCONET, a complete e-resource management system, and EBSCOhost, which supplies a fee-based online research service with 375 full-text databases, a collection of 600,000-plus ebooks, subject indexes, point-of-care medical references, and an array of historical digital archives.",
+          " In 2010, EBSCO introduced its EBSCO Discovery Service (EDS) to institutions, which allows searches of a portfolio of journals and magazines."
+        ]
+      ],
+      [
+        "Australian Literary Studies",
+        [
+          "Australian Literary Studies is a peer-reviewed academic journal of literary studies, specialising in historical, critical, and theoretical studies of Australian literature.",
+          " It was established in 1963 by Laurie Hergenhan (University of Queensland), who edited the journal for its first forty years.",
+          " It was then edited by Leigh Dale (University of Wollongong) from 2002 to 2015; in 2010 the journal increased its publication frequency to quarterly, with two issues (May and October) focussed on Australian authors and texts, along with two \"general\" issues (June and November).",
+          " Successful special issues have focussed on queer writers and writing, the environment, medievalism, and biopolitics.",
+          " Since 2016, the journal has been edited by Julieanne Lamond (Australian National University).",
+          " In 2016, the journal ceased producing print volumes and digitised its entire archive.",
+          " It also moved to a rolling publication model involving a mix of open access for new essays and low-cost subscription access to the archive.",
+          " The journal, described as \"the preeminent journal in Australian literary criticism\", is abstracted and indexed by the MLA International Bibliography and AustLit."
+        ]
+      ],
+      [
+        "The Journal of Entrepreneurial Finance",
+        [
+          "The Journal of Entrepreneurial Finance is a biannual peer-reviewed open-access academic journal published by the Pepperdine University.",
+          " It was established in 1991 as \"The Journal of Small Business Finance\".",
+          " The journal covers topics related to finance, entrepreneurship, new ventures, and small business finance.",
+          " It is abstracted and indexed in ProQuest databases, EconPapers, and RePEc.",
+          " The editor-in-chief is Jim Brau (Brigham Young University)"
+        ]
+      ],
+      [
+        "Teaching Mathematics and Its Applications",
+        [
+          "Teaching Mathematics and Its Applications is a triannual peer-reviewed academic journal in the field of mathematics education.",
+          " The journal was established in 1982 and is published by Oxford University Press on behalf of the Institute of Mathematics and its Applications.",
+          " The editors-in-chief are Duncan Lawson (Newman University, Birmingham), Chris Sangwin (Loughborough University, and Anne Watson University of Oxford.",
+          " The journal is abstracted and indexed in the British Education Index, Education Research Abstracts, Educational Management Abstracts, Educational Technology Abstracts, MathEduc Database, and ProQuest databases."
+        ]
+      ],
+      [
+        "Journal of the International Phonetic Association",
+        [
+          "The Journal of the International Phonetic Association is a peer-reviewed academic journal that appears three times a year.",
+          " It is published by Cambridge University Press on behalf of the International Phonetic Association.",
+          " It was established as \"Le Maître Phonétique\" in 1886 and obtained its current name in 1971.",
+          " It covers topics in phonetics and applied phonetics such as speech therapy and voice recognition.",
+          " The editor-in-chief is Adrian P. Simpson (Friedrich-Schiller-Universität).",
+          " The journal is abstracted and indexed in the MLA Bibliography."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: In the Library with the Lead Pipe, an academic journal on topics about libraries, is abstracted and indexed by this third largest private company in Birmingham, Alabama? ",
+          "It claims that the correct answer is a different person, not EBSCO Information Services.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different person"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5adcea3755429947343537ca",
+    "answer": "Europe",
+    "question": "The  Actaea genus is native to what continent that the Onoclea genus is not?",
+    "supporting_facts": [
+      [
+        "Actaea (plant)",
+        0
+      ],
+      [
+        "Onoclea",
+        0
+      ],
+      [
+        "Actaea spicata",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Sparganophilus",
+        [
+          "Sparganophilus, the only genus in the family Sparganophilidae, is a group of long, slender, limicolous (mud-dwelling) earthworms native to North America.",
+          " The number of species is unknown, most of them are undescribed, throughout the continent and into Central America.",
+          " One species, \"S. tamesis\", has been introduced into the streams of Europe, where it is now widespread; its synonyms are \"S. eiseni\", \"S. benhami\", \"S. guatemalensis\", \"S. carnea\", \"S. elongatus\", \"S. cuenoti\" and, newly, \"S. langi\"."
+        ]
+      ],
+      [
+        "Aleeta curvicosta",
+        [
+          "Aleeta curvicosta (commonly the floury baker or floury miller, known until 2003 as Abricta curvicosta) is a species of cicada, one of Australia's most familiar insects.",
+          " Native to the continent's eastern coastline, it was described in 1834 by Ernst Friedrich Germar.",
+          " s of 2014 the floury baker is the only described species in the genus \"Aleeta\"."
+        ]
+      ],
+      [
+        "Grey-headed lovebird",
+        [
+          "The grey-headed lovebird or Madagascar lovebird (\"Agapornis canus\") is a small species of parrot of the lovebird genus.",
+          " It is a mainly green parrot.",
+          " The species is sexually dimorphic and only the adult male has grey on its upper body.",
+          " They are native on the island of Madagascar and are the only lovebird species which are not native on the African continent.",
+          " They are the smallest of the lovebird species.",
+          " It is rarely seen in aviculture and it is difficult to breed in captivity."
+        ]
+      ],
+      [
+        "Actaea (plant)",
+        [
+          "Actaea, commonly called baneberry, bugbane and cohosh, is a genus of flowering plants belonging to the family Ranunculaceae, native to subtropical, temperate and subartic regions of the Europe, Asia and North America."
+        ]
+      ],
+      [
+        "Onoclea",
+        [
+          "Onoclea is a genus of plants in the Onocleaceae family, native to moist habitats in eastern Asia and eastern North America.",
+          " They are deciduous ferns with sterile fronds arising from creeping rhizomes in spring, dying down at first frost.",
+          " Fertile fronds appear in late summer.",
+          " Depending on the authority, the genus contains one to five species."
+        ]
+      ],
+      [
+        "Actaea spicata",
+        [
+          "Actaea spicata (baneberry, Eurasian baneberry, or herb Christopher) is a species of flowering plant in the genus \"Actaea\", native to Eastern Europe and western Asia."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: The  Actaea genus is native to what continent that the Onoclea genus is not?",
+          "It claims that the correct answer is an unrelated entity, not Europe.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "comparison",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "an unrelated entity"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ab487f55542990594ba9c4f",
+    "answer": "Dallas Cowboys",
+    "question": "The 2015 Cotton Bowl was played at the stadium that was the home of which NFL team?",
+    "supporting_facts": [
+      [
+        "Cotton Bowl Classic",
+        0
+      ],
+      [
+        "AT&amp;T Stadium",
+        0
+      ],
+      [
+        "2015 Cotton Bowl Classic (January)",
+        0
+      ],
+      [
+        "2015 Cotton Bowl Classic (December)",
+        0
+      ],
+      [
+        "Comerica Bank New Year's Parade",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Comerica Bank New Year's Parade",
+        [
+          "The Comerica Bank New Year's Parade (also known as the Cotton Bowl Parade) was an annual New Year's Day parade held in downtown Dallas, Texas.",
+          " The parade was sponsored by Comerica Bank, presented by the J. Curtis Sanford Parade Committee, and benefited the Field and Mary Scovell Scholarship Foundation.",
+          " It was revived in 2007 and was held each year for the AT&T Cotton Bowl Classic.",
+          " An estimated 100,000 people attend the parade each year.",
+          " The parade route was 1.5 mi long, starting in the Dallas Arts District and ending at the American Airlines Center, by Victory Park.",
+          " It featured about 80 different entries, including about 20 floats and various marching bands, balloons, and other such performances.",
+          " The parade was followed by pep rallies in the park for each team competing in the Cotton Bowl Classic.",
+          " Although the game was moved to AT&T Stadium at Arlington, Texas, the 2010 parade was still held in Dallas.",
+          " The Dallas Convention & Visitors Bureau said that the New Year's Day parade was important to the local economy because it increased the amount of people shopping, dining, and staying in hotels during the end of the holiday season."
+        ]
+      ],
+      [
+        "Cotton Bowl Classic",
+        [
+          "The Cotton Bowl Classic is an American college football bowl game that has been held annually since January 1, 1937.",
+          " Between 1937 and 2009, the game was played at its namesake stadium in Dallas; in 2010, it moved to Cowboys Stadium in nearby Arlington.",
+          " Historically, the game hosted the champion of the Southwest Conference (SWC) against a team invited from elsewhere in the country, frequently a major independent or a runner-up from the Southeastern Conference (SEC).",
+          " Following the dissolution of the SWC in 1996, the game hosted a runner-up from the Big 12 Conference, facing an SEC team from 1999 to 2014.",
+          " The Cotton Bowl Classic has served as one of six bowls in the College Football Playoff (CFP) since the 2014 season; it hosted a national semifinal following the 2015 season and will do so again following the 2018 season.",
+          " On January 2, 2017, Wisconsin beat the 13-0 MAC Champion Western Michigan Broncos in the 81st edition of the game by a score of 24–16."
+        ]
+      ],
+      [
+        "Heart of Dallas Bowl",
+        [
+          "The Heart of Dallas Bowl (formerly the TicketCity Bowl) is an NCAA post-season college football bowl game.",
+          " The inaugural game was played on New Year's Day (January 1), 2011, at the Cotton Bowl in Fair Park in Dallas, Texas.",
+          " This game physically replaced the Cotton Bowl Classic, which moved from its longtime eponymous home to AT&T Stadium in nearby Arlington in 2010.",
+          " The conferences are scheduled to receive a $1.2 million payout for the teams' participation."
+        ]
+      ],
+      [
+        "AT&amp;T Stadium",
+        [
+          "AT&T Stadium, formerly Cowboys Stadium, is a retractable roof stadium in Arlington, Texas, United States.",
+          " It serves as the home of the Dallas Cowboys of the National Football League (NFL) and was completed on May 27, 2009.",
+          " It is also the home of the Cotton Bowl Classic.",
+          " The facility, owned by the city of Arlington, can also be used for a variety of other activities such as concerts, basketball games, college and high school football contests, soccer matches, and motocross and Spartan races.",
+          " It replaced the partially covered Texas Stadium, which served as the Cowboys' home from 1971 through the 2008 season."
+        ]
+      ],
+      [
+        "2015 Cotton Bowl Classic (January)",
+        [
+          "The 2015 Cotton Bowl Classic was a college football bowl game played on January 1, 2015 at AT&T Stadium in Arlington, Texas.",
+          " The 79th Cotton Bowl Classic was one of the \"New Year's Six\" bowls of the College Football Playoff.",
+          " It was one of the 2014–15 bowl games that concluded the 2014 FBS football season.",
+          " The game kicked off at 12:30 PM EST and was broadcast on ESPN, ESPN Deportes, ESPN Radio and XM Satellite Radio.",
+          " It was sponsored by the Goodyear Tire and Rubber Company and was officially known as the Goodyear Cotton Bowl Classic."
+        ]
+      ],
+      [
+        "2015 Cotton Bowl Classic (December)",
+        [
+          "The 2015 Cotton Bowl Classic was a college football bowl game played on December 31, 2015 at AT&T Stadium in Arlington, Texas.",
+          " The 80th Cotton Bowl Classic was a College Football Playoff semifinal between Alabama and Michigan State with the winner to compete in the 2016 College Football Playoff National Championship.",
+          " It was one of the 2015–16 bowl games that concluded the 2015 FBS football season."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: The 2015 Cotton Bowl was played at the stadium that was the home of which NFL team?",
+          "It claims that the correct answer is 2015 Cotton Bowl Classic, not Dallas Cowboys.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "2015 Cotton Bowl Classic"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5adc94dc5542990d50227cad",
+    "answer": "Archie Andrews",
+    "question": "Which comic book character was originally written by Vic Bloom after appearing in \"Pep Comics\"?",
+    "supporting_facts": [
+      [
+        "Archie Andrews",
+        0
+      ],
+      [
+        "Archie (comic book)",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Li'l Jinx",
+        [
+          "Li'l Jinx, created in by Joe Edwards, is a fictional character in an American comic book series published by Archie Comics since the late 1940s.",
+          " A high-spirited little girl who has humorous misadventures with her neighborhood friends, she first appeared in \"Pep Comics\" #62 (July 1947)."
+        ]
+      ],
+      [
+        "Betty and Veronica (comic book)",
+        [
+          "Betty and Veronica (also known as Archie's Girls Betty and Veronica) is an ongoing comic book series published by Archie Comics focusing on \"best friends and worst enemies\" Betty Cooper and Veronica Lodge.",
+          " Betty first appeared in \"Pep Comics\" #22 while Veronica made her debut a few months later, in \"Pep\" #26, as an immediate rival to Betty for Archie's affections.",
+          " Together the pair form the female part of the classic love triangle which has become a staple of the comic series since 1942."
+        ]
+      ],
+      [
+        "Marvelous Maureen",
+        [
+          "Marvelous Maureen is a comic book character created by Lori Walls who appeared in comics published by Archie Comics.",
+          " She first appeared in \"Pep Comics\" #383 (Apr. 1982).",
+          " Her adventures were all scripted and penciled by Walls, with most stories being inked by Jon D'Agostino.",
+          " Marvelous Maureen's adventures are in the vein of a humorous science fiction soap opera, with an ongoing storyline that ultimately stretched over twenty episodes.",
+          " Trina Robbins & Catherine Yronwode described the Marvelous Maureen stories as \"light-hearted and fanciful,\" but ultimately felt that the feature bore \"little resemblance to the Archie school humor-style.\"",
+          " After appearing in almost every issue of \"Pep\" from Apr. 1982 to Sept. 1985, the character never appeared again."
+        ]
+      ],
+      [
+        "Pep Comics",
+        [
+          "Pep Comics is the name of an American comic book anthology series published by the Archie Comics predecessor MLJ Magazines Inc. (commonly known as MLJ Comics) during the 1930s and 1940s period known as the Golden Age of Comic Books.",
+          " The title continued under the Archie Comics imprint for a total of 411 issues until March 1987."
+        ]
+      ],
+      [
+        "Archie Andrews",
+        [
+          "Archie Andrews, created in 1941 by publisher John L. Goldwater and artist Bob Montana in collaboration with writer Vic Bloom, is the main character in an American comic book series published by Archie Comics, as well as the long-running \"Archie Andrews\" radio series, a syndicated comic strip, \"The Archie Show\", and \"Archie's Weird Mysteries\"."
+        ]
+      ],
+      [
+        "Archie (comic book)",
+        [
+          "Archie (also known as Archie Comics) is an ongoing comic book series featuring the Archie Comics character Archie Andrews.",
+          " The character first appeared in \"Pep Comics\" #22 (cover dated December 1941).",
+          " Archie proved to be popular enough to warrant his own self-titled ongoing comic book series which began publication in the winter of 1942 and ran until June 2015.",
+          " A second series began publication in July 2015, featuring a reboot of the entire Archie universe with a new character design aesthetic and a more mature story format and scripting, aimed for older, contemporary teenage and young adult readers.",
+          " Even the printed comic book format is different from the previous publications."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Which comic book character was originally written by Vic Bloom after appearing in \"Pep Comics\"?",
+          "It claims that the correct answer is a different person, not Archie Andrews.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different person"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ab7af9d5542993667793fe9",
+    "answer": "yes",
+    "question": "Are both Dodgy and Massive Attack based in the same country?",
+    "supporting_facts": [
+      [
+        "Massive Attack",
+        0
+      ],
+      [
+        "Dodgy",
+        0
+      ],
+      [
+        "Unfinished Sympathy",
+        0
+      ],
+      [
+        "Massive Attack discography",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Protection (Massive Attack song)",
+        [
+          "\"Protection\" is a collaboration between Massive Attack and Everything But the Girl singer Tracey Thorn, that appeared on Massive Attack's second album \"Protection\" on CD and 12\" in 1994 as a second single.",
+          " It reached number 14 on the UK Singles Chart, staying there for four weeks.",
+          " The song was also included on Everything But the Girl's compilations \"The Best of\" and \"Like the Deserts Miss the Rain\"."
+        ]
+      ],
+      [
+        "Four Walls / Paradise Circus",
+        [
+          "\"Four Walls / Paradise Circus\" is a collaboration between Massive Attack and Burial, which was first released as a limited vinyl edition on 17 October 2011, with pre-orders from 10 October 2011.",
+          " The single consists of Burial mixes of Massive Attack's previously unreleased track \"Four Walls\", and of \"Paradise Circus\", which was featured in their 2010 album \"Heligoland\".",
+          " Both songs featured on the EP contain vocals, and lyrical contributions, by Hope Sandoval of Mazzy Star."
+        ]
+      ],
+      [
+        "Massive Attack",
+        [
+          "Massive Attack are an English trip hop group formed in 1988 in Bristol, consisting of Robert \"3D\" Del Naja, Grant \"Daddy G\" Marshall and formerly Andy \"Mushroom\" Vowles (\"Mush\").",
+          " Their debut album \"Blue Lines\" was released in 1991, with the single \"Unfinished Sympathy\" reaching the charts and later being voted the 63rd greatest song of all time in a poll by \"NME\".",
+          " 1998's \"Mezzanine\", containing \"Teardrop\", and 2003's \"100th Window\" charted in the UK at number one.",
+          " Both \"Blue Lines\" and \"Mezzanine\" feature in \"Rolling Stone\"' s list of the 500 Greatest Albums of All Time."
+        ]
+      ],
+      [
+        "Dodgy",
+        [
+          "Dodgy are an English power pop rock trio, that rose to prominence during the Britpop era of the 1990s.",
+          " They are best known for their hits \"Staying Out for the Summer\", \"If You're Thinking of Me\", and \"Good Enough\".",
+          " The last was their biggest hit reaching No. 4 in the UK Singles Chart."
+        ]
+      ],
+      [
+        "Unfinished Sympathy",
+        [
+          "\"Unfinished Sympathy\" is a song by English trip hop group Massive Attack, released under the temporary group name of Massive.",
+          " It was written by the three band members Robert \"3D\" Del Naja, Andrew \"Mushroom\" Vowles and Grant \"Daddy G\" Marshall, the song's vocalist Shara Nelson and the group's co-producer Jonathan \"Jonny Dollar\" Sharp.",
+          " The song was released as the second single from the band's debut album \"Blue Lines\", on the band's Wild Bunch label distributed through Circa Records on 11 February 1991.",
+          " The choice of using the name \"Massive\" was done to avoid a radio ban as its release coincided with the Gulf War.",
+          " Produced by Massive Attack and Dollar, the song incorporates various musical elements into its arrangement, including vocal and percussion samples, drum programming, and string orchestration by arranger Wil Malone."
+        ]
+      ],
+      [
+        "Massive Attack discography",
+        [
+          "The discography of British trip hop group Massive Attack consists of five studio albums, three compilation albums, five remix albums, one soundtrack album, five extended plays, eighteen singles and twenty-seven music videos.",
+          " The group were founded in 1988 by musicians Robert \"3D\" Del Naja, Grantley \"Daddy G\" Marshall, Andrew \"Mushroom\" Vowles and Adrian \"Tricky\" Thaws in Bristol, England.",
+          " Prior to the formation of Massive Attack, all three were members of British sound system The Wild Bunch."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Are both Dodgy and Massive Attack based in the same country?",
+          "It claims that the correct answer is Massive Attack discography, not yes.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "comparison",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Massive Attack discography"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ae2bb545542992decbdcd88",
+    "answer": "fortnightly",
+    "question": "At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?",
+    "supporting_facts": [
+      [
+        "India Today",
+        0
+      ],
+      [
+        "Aditya Puri",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Pawan Munjal",
+        [
+          "Pawan Munjal (Pawan Kant Munjal) is an Indian belonging to the promoter family of Hero group.",
+          " Pawan is the third child of (father) Brijmohan Lall Munjal and (Mother) Santosh Munjal.",
+          " He is 61 years old and currently serves as the Chairman, Managing Director & CEO of Hero Motocorp.",
+          " India Today magazine ranked him #49th in India's 50 Most powerful people of 2017 list."
+        ]
+      ],
+      [
+        "India Today",
+        [
+          "India Today is an Indian English-language fortnightly news magazine and news television channel."
+        ]
+      ],
+      [
+        "Vineet Jain",
+        [
+          "Vineet Jain belongs to the Sahu Jain family and is the current Managing director of India's largest media group, Bennett, Coleman & Co. Ltd., parent company of \"The Times of India\" and other large newspapers.",
+          " India Today magazine ranked him #23th in India's 50 Most powerful people of 2017 list."
+        ]
+      ],
+      [
+        "New Zealand Listener Power List",
+        [
+          "The New Zealand Listener Power List is a list of the most powerful people in New Zealand, compiled annually by the \"New Zealand Listener\" from 2004 to 2009.",
+          " From 2004 to 2007, the list covered the 50 most powerful people without separating them by field.",
+          " In 2008, the list was divided into the top ten most powerful, and ten lists of five or six people each in specific fields."
+        ]
+      ],
+      [
+        "Rahul Bhatia",
+        [
+          "Rahul Bhatia is an Indian businessman and co-founder and Non-executive director of low-cost carrier IndiGo and Group Managing Director of InterGlobe Enterprises.",
+          " IndiGo airlines commenced operations in 4thAugust 2006 and had its Initial Public Offering (IPO) in October 2015.",
+          " After the listing of the airline on the Indian stock exchanges BSE and NSE, \"Forbes\" magazine declared him the twentieth richest person in India (jointly with his father Kapil Bhatia), with a net worth of $3.1 billion.",
+          " India Today magazine ranked him #17th in India's 50 Most powerful people of 2017 list."
+        ]
+      ],
+      [
+        "Aditya Puri",
+        [
+          "Aditya Puri is the Managing Director of HDFC Bank, India's largest private sector bank.",
+          " He assumed this position in September 1994, making him the longest-serving head of any private bank in the country.",
+          " India Today magazine ranked him #24th in India's 50 Most powerful people of 2017 list."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: At what frequency the magazine publishes which ranked  Aditya Puri #24th in India's 50 Most powerful people of 2017 list?",
+          "It claims that the correct answer is a different company, not fortnightly.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different company"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a85b2ac5542991dd0999e90",
+    "answer": "Lamar Hunt",
+    "question": "Brad Budde played professionally for a team in the NFL that was founded in 1960 as the Dallas Texans by who?",
+    "supporting_facts": [
+      [
+        "Brad Budde",
+        0
+      ],
+      [
+        "Kansas City Chiefs",
+        0
+      ],
+      [
+        "1960 NFL expansion draft",
+        0
+      ],
+      [
+        "History of the Kansas City Chiefs",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Brad Budde",
+        [
+          "Brad Edward Budde (born May 9, 1958) is a former American college and professional football player who was an offensive guard in the National Football League (NFL) for seven seasons during the 1980s.",
+          " Budde played college football for the University of Southern California (USC), and was an All-American and the winner of the Lombardi Award.",
+          " He was a first-round pick in the 1980 NFL Draft, and played professionally for the NFL's Kansas City Chiefs."
+        ]
+      ],
+      [
+        "Kansas City Chiefs",
+        [
+          "The Kansas City Chiefs are a professional American football team based in Kansas City, Missouri.",
+          " The Chiefs compete in the National Football League (NFL) as a member club of the league's American Football Conference (AFC) West division.",
+          " The team was founded in 1960 as the Dallas Texans by businessman Lamar Hunt and was a charter member of the American Football League (AFL) (they are not associated with an earlier Dallas Texans NFL team that only played for one season in 1952).",
+          " In 1963, the team relocated to Kansas City and assumed their current name.",
+          " The Chiefs joined the NFL as a result of the merger in 1970.",
+          " The team is valued at just under $1 billion."
+        ]
+      ],
+      [
+        "Johnny Stark (soccer)",
+        [
+          "Johnny Stark (born May 29, 1972) is a Canadian-American soccer forward who spent most of career with indoor soccer teams.",
+          " He currently coaches with the Dallas Texans youth club.cHe played for the Dallas Sidekicks.Stark (born May 29, 1972 in Vancouver, British Columbia, Canada) was a Canadian-American soccer forward who spent most of career with indoor soccer teams.",
+          " Stark currently coaches with the Dallas Texans youth club.On April 23, 1993, the Dallas Sidekicks of the Continental Indoor Soccer League selected Stark in the first round (fifth overall) of the CISL Supplemental Draft.",
+          " The team moved to Fort Worth in the spring of 1990 where it spent a single season as the North Texas United.",
+          " Although born in Canada, Stark grew up in Texas, graduating in 1990 from Sam Houston High School.",
+          " 1988, he began playing for the Addison Arrows in the Southwest Independent Soccer League (SISL) during the league’s first outdoor season.",
+          " At the time, he was the youngest player in the league at age 16.",
+          "On April 23, 1993, the Dallas Sidekicks of the Continental Indoor Soccer League selected Stark in the first round (fifth overall) of the CISL Supplemental Draft.",
+          " He played two seasons in Dallas before being traded to the Houston Hotshots on August 15, 1994.",
+          " After retiring from playing, Stark entered coaching, currently working for the Dallas Texans."
+        ]
+      ],
+      [
+        "History of the Kansas City Chiefs",
+        [
+          "The following is a detailed history of the Kansas City Chiefs, a professional American football franchise that began play in 1960 as the Dallas Texans.",
+          " The team was a charter member of the American Football League (AFL), and now is currently part of the National Football League (NFL) (they are not associated with an earlier Dallas Texans NFL team that only played for one season in 1952)."
+        ]
+      ],
+      [
+        "Cotton Davidson",
+        [
+          "Francis Marion \"Cotton\" Davidson (born November 30, 1931) is a former American football quarterback.",
+          " Davidson attended Baylor University, and played professionally for the National Football League's Baltimore Colts (1954, 1957), and the American Football League's Dallas Texans (1960–1962) and Oakland Raiders (1962–1968).",
+          " Davidson also played quarterback for the Fort Bliss Falcons in 1955 to 1957.",
+          " A game between the Fort Bliss Falcons and the Fort Sill, Oklahoma Cannoneers was played for a trophy called \"The Little Brown Dud.\"",
+          " The Cannoneers won the game and took home the Little Brown Dud.",
+          " Cotton was awarded ALL ARMY QUARTERBACK in 1955."
+        ]
+      ],
+      [
+        "1960 NFL expansion draft",
+        [
+          "The 1960 NFL expansion draft was the first National Football League (NFL) draft in which a new expansion team, named the Dallas Rangers, selected its initial players.",
+          " The NFL awarded Dallas, Texas a franchise to compete for revenue with Lamar Hunt's Dallas Texans of the upstart American Football League.",
+          "The Dallas expansion franchise was approved too late for it to participate in the 1960 NFL draft which had been held on November 30, 1959.",
+          " Dallas is the only NFL expansion team to not have had the benefit of a college draft in its first year."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Brad Budde played professionally for a team in the NFL that was founded in 1960 as the Dallas Texans by who?",
+          "It claims that the correct answer is History of the Kansas City Chiefs, not Lamar Hunt.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "History of the Kansas City Chiefs"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ae30aa05542992decbdcdd7",
+    "answer": "Any of these correct answers: Dark Heresy, Aaron Allston's Strike Force, or Savage Worlds Rifts",
+    "question": "The design team for role playing game Black Crusade featured the work of this designer who was the lead developer for what game?",
+    "supporting_facts": [
+      [
+        "Ross Watson (game designer)",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Jens Bergensten",
+        [
+          "Jens \"Jeb\" Bergensten is a Swedish video game designer.",
+          " Since December 2010, he has worked for the video game developer Mojang as a programmer and game designer.",
+          " He became the lead designer and lead developer of the indie sandbox game \"Minecraft\", after Markus \"Notch\" Persson stepped down from his position in December 2011.",
+          " He is known by his in-game name \"jeb_\"."
+        ]
+      ],
+      [
+        "Reveal Fantasia",
+        [
+          "Reveal Fantasia (リーヴェルファンタジア～マリエルと妖精物語～ , Riberu Fantajia Marieru to Yousei Monogatari ) Is a Fantasy role playing video game released in 2002 for the PlayStation 2 console by Victor Interactive Software, Inc. in Japan.",
+          " The game involved an innovative concept of a role playing game involving no battles or fighting.",
+          " Its game play shows some influence from dating simulation games.",
+          " The game was never released outside Japan."
+        ]
+      ],
+      [
+        "Hiromichi Tanaka",
+        [
+          "Hiromichi Tanaka (田中 弘道 , Tanaka Hiromichi , born January 7, 1962) is a Japanese video game developer, game producer, game director and game designer.",
+          " He was Senior Vice President of Software Development at Square Enix (formerly Square) and the head of the company's Product Development Division-3.",
+          " He is best known as the former lead developer of \"Final Fantasy XI\", Square's first massively multiplayer online role playing game (MMORPG).",
+          " He oversaw ongoing development of that title and \"Final Fantasy XIV\" until late 2010.",
+          " He also recently led the development of the Nintendo DS version of \"Final Fantasy III\", having worked in a senior role on the original version of the game in 1990."
+        ]
+      ],
+      [
+        "Merpcon",
+        [
+          "MerpCon is an acronym for \"Middle-Earth Role Playing Convention\", a role playing game convention dedicated solely to role-playing gaming in J.R.R. Tolkien's Middle-earth.",
+          " The event is held annually on the last weekend of July and runs for 3 days from Friday, through to the end of Sunday (and sometimes a little into the following Monday morning).",
+          " To date MerpCon has been held each year in Spokane, WA, USA.",
+          " Beginning in 2009 MerpCon began to transition to being called Tolkienmoot as this convention's venue began to expand to include more Tolkien-related activities, events, and guests beyond just role playing in Middle-earth."
+        ]
+      ],
+      [
+        "Ross Watson (game designer)",
+        [
+          "Ross Watson (born May 22, 1975) is a designer of computer, miniature and role-playing games and a writer in various genres.",
+          " Watson worked on the Warhammer 40,000 Roleplay line as the Lead Developer for Dark Heresy, was the lead designer for Rogue Trader and Deathwatch, and was part of the design team for Black Crusade.",
+          " He was the lead developer for both Aaron Allston's Strike Force and Savage Worlds Rifts.",
+          " His written works include the Accursed and Weird War I settings for Savage Worlds, contributions to the Star Wars: Edge of the Empire RPG, and the video games Darksiders II, , and .",
+          " Watson has designed rules and scenarios for miniature game lines, such as Dust Warfare, and he has written for several card games, including , Empire Engine, and the Lost Legacy series."
+        ]
+      ],
+      [
+        "Black Crusade (role-playing game)",
+        [
+          "Black Crusade is a role-playing game published in 2011 that uses the \"Warhammer 40,000 Roleplay\" system."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: The design team for role playing game Black Crusade featured the work of this designer who was the lead developer for what game?",
+          "It claims that the correct answer is a different person, not Any of these correct answers: Dark Heresy, Aaron Allston's Strike Force, or Savage Worlds Rifts.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different person"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ac1bff05542994ab5c67dfc",
+    "answer": "Francisco Rafael Arellano Félix",
+    "question": "Who was the eldest brother of the Mexican drug trafficker born 12 March 1952?",
+    "supporting_facts": [
+      [
+        "Benjamín Arellano Félix",
+        0
+      ],
+      [
+        "Francisco Rafael Arellano Félix",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Miguel &quot;El Gringo&quot; Villarreal",
+        [
+          "Miguel \"El Gringo\" Villarreal (died on 10 March 2013) was an alleged drug trafficker and high-ranking leader of the Gulf Cartel, a Mexican drug trafficking organization.",
+          " He was the crime boss of Reynosa, Tamaulipas."
+        ]
+      ],
+      [
+        "Héctor Manuel Sauceda Gamboa",
+        [
+          "Héctor Manuel Sauceda Gamboa (died 17 February 2009), commonly referred to by his alias El Karis, was an alleged drug trafficker and high-ranking leader of the Gulf Cartel (Spanish: \"Cártel del Golfo\"), a Mexican drug trafficking organization.",
+          " He was the brother of the drug lord Gregorio Sauceda Gamboa, another high-ranking drug trafficker who worked under the tutelage of Osiel Cárdenas Guillén, the former top leader of the cartel."
+        ]
+      ],
+      [
+        "Serafín Zambada Ortiz",
+        [
+          "Serafín Zambada Ortiz (born 27 May 1990) is a United States-born Mexican drug trafficker and son of Ismael \"El Mayo\" Zambada, one of the top leaders of the Sinaloa Cartel.",
+          " He is married to Karime Ellameli Torres Acosta, the daughter of the late Manuel Torres Félix (\"The Crazy One\"), another Sinaloa Cartel drug lord.",
+          " Zambada Ortiz was active on social media, where he posted pictures of his extravagant lifestyle."
+        ]
+      ],
+      [
+        "Rafael Cedeño Hernández",
+        [
+          "Rafael Cedeño Hernández is an imprisoned Mexican drug trafficker who was a high-level leader of La Familia Michoacana, a drug cartel based in the Mexican state of Michoacán.",
+          " He was the successor of Alberto Espinoza Barrón, a drug trafficker who was arrested on 31 December 2008 by the Mexican authorities."
+        ]
+      ],
+      [
+        "Benjamín Arellano Félix",
+        [
+          "Benjamín Arellano Félix (born 12 March 1952) is a Mexican drug trafficker and former leader of the Mexican criminal organization known as the Tijuana Cartel or 'Arellano-Félix Organization'."
+        ]
+      ],
+      [
+        "Francisco Rafael Arellano Félix",
+        [
+          "Francisco Rafael Arellano Félix (24 October 1949 – 18 October 2013) was a Mexican drug lord and former leader of the Tijuana Cartel, a drug trafficking organization.",
+          " He was the oldest of seven brothers and headed the criminal organization early in the 1990s alongside them.",
+          " Through his brother Benjamín, Francisco Rafael joined the Tijuana Cartel in 1989 following the arrest of Miguel Ángel Félix Gallardo, one of the most prominent drug czars in Mexico during the 1980s.",
+          " When the Arellano Félix took control of the organization in the early 1990s, tensions with the rival Sinaloa Cartel prompted violent attacks and slayings from both fronts."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Who was the eldest brother of the Mexican drug trafficker born 12 March 1952?",
+          "It claims that the correct answer is Serafín Zambada Ortiz, not Francisco Rafael Arellano Félix.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Serafín Zambada Ortiz"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5adcad175542994ed6169bc3",
+    "answer": "outdoors, mountain climbing, or the Everest disaester",
+    "question": "What did the American writer who wrote Into Thin Air  primarily known for in his writings ",
+    "supporting_facts": [
+      [
+        "Jon Krakauer",
+        0
+      ],
+      [
+        "Into Thin Air",
+        0
+      ],
+      [
+        "Into Thin Air: Death on Everest",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "The Elements of Eloquence",
+        [
+          "The Elements of Eloquence: How to Turn the Perfect English Phrase is a non-fiction book by Mark Forsyth first published in 2013.",
+          " The book explains selected figures of classical rhetoric, with each chapter dedicated to a particular rhetorical figure and including famous examples of its use from literature, particularly the works of William Shakespeare.",
+          " Forsyth argues that Shakespeare's genius for language did not appear out of thin air, but was the result of the careful study and practice of formal rhetorical figures of speech.",
+          " As well as providing many examples from varied literary and non-literary sources, he particularly highlights the occurrence of different figures throughout Shakespeare's development as a writer."
+        ]
+      ],
+      [
+        "The Body Stealers",
+        [
+          "The Body Stealers, also known as \"Thin Air\", is a 1969 British science fiction film directed by Gerry Levy, about the disappearance of British armed forces paratroopers in mid-air whilst on a routine jump.",
+          " Two investigators try to figure out what happened and uncover an alien plot to steal bodies of earthlings by snatching them out of the air.",
+          " The film was also released as \"Invasion of the Body Stealers\"."
+        ]
+      ],
+      [
+        "Jon Krakauer",
+        [
+          "Jon Krakauer (born April 12, 1954) is an American writer and mountaineer, primarily known for his writings about the outdoors, especially mountain-climbing.",
+          " He is the author of best-selling non-fiction books—\"Into the Wild\", \"Into Thin Air\", \"Under the Banner of Heaven\", and \"\"—as well as numerous magazine articles.",
+          " He was a member of an ill-fated expedition to summit Mount Everest in 1996, one of the deadliest disasters in the history of climbing Everest."
+        ]
+      ],
+      [
+        "Grook",
+        [
+          "A grook (\"gruk\" in Danish) is a form of short aphoristic poem or rhyming aphorism, created by the Danish poet, designer, inventor and scientist Piet Hein, who wrote over 7000 of them, mostly in Danish or English.",
+          " They have been published in 20 volumes.",
+          " Some say that the name is short for \"GRin & sUK\" (\"laugh & sigh\" in Danish), but Piet Hein said he felt that the word had come out of thin air.",
+          " The contemporary \"Hunden Grog\" (Grog the Dog) stories by fellow cartoonist Storm P. has, in public opinion, been regarded as an inspiration."
+        ]
+      ],
+      [
+        "Into Thin Air: Death on Everest",
+        [
+          " Into Thin Air: Death on Everest is a 1997 American disaster television film based on Jon Krakauer's memoir \"Into Thin Air\"(1997). ",
+          " The film, directed by Robert Markowitz and written by Robert J. Avrech, tells the story of the 1996 Mount Everest disaster.",
+          " It was broadcast on the American Broadcasting Company on November 9, 1997."
+        ]
+      ],
+      [
+        "Into Thin Air",
+        [
+          "Into Thin Air: A Personal Account of the Mt. Everest Disaster is a 1997 bestselling non-fiction book written by Jon Krakauer.",
+          " It details the author's presence at Mount Everest during the 1996 Mount Everest disaster, when eight climbers were killed and several others were stranded by a \"rogue storm\".",
+          " The author's expedition was led by the famed guide Rob Hall, and there were other groups trying to summit on the same day, including one led by Scott Fischer, whose guiding agency, Mountain Madness, was perceived as a competitor to Rob Hall's agency, Adventure Consultants."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: What did the American writer who wrote Into Thin Air  primarily known for in his writings ",
+          "It claims that the correct answer is Into Thin Air: Death on Everest, not outdoors, mountain climbing, or the Everest disaester.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Into Thin Air: Death on Everest"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ade0fb95542997545bbbe39",
+    "answer": "1472 km or 2844 km",
+    "question": "How long is the river for which Frenchmans Creek is a tributary?",
+    "supporting_facts": [
+      [
+        "Darling River",
+        0
+      ],
+      [
+        "Frenchmans Creek (New South Wales)",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Cow Creek (Montana)",
+        [
+          "Cow Creek is a tributary of the Missouri River, approximately 35 mi long, in north central Montana in the United States.",
+          " Cow Creek rises in the southern foothills of the Bear Paw Mountains in western Blaine County and flows east and then south, joining the Missouri approximately 25 mi northeast of Winifred, Montana—or 22 mi upstream from the Fred Robinson Bridge.",
+          " Cow Creek flows down to the Missouri in a canyon that passes through the Missouri Breaks, which are severely eroded badlands that extend out on either side from the Missouri River.",
+          " The floor of Cow Creek canyon provided a pathway of travel from the Montana plains north of the river, down to the Missouri – at the mouth of Cow Creek, Cow Island made fording the Missouri easier – a steep but short trail on the south bank of the Missouri opposite Cow Creek completed this route which led from the northern Montana plains to the central and southern Montana plains.",
+          " This pathway was used by migrating buffalo/bison and nomadic American Natives for centuries.",
+          " During the steamboat era on the Missouri River, when low water prevented riverboats getting up to Fort Benton, the mouth of Cow Creek became a river landing and freighting depot, and it was the start of the Cow Island Trail by which freight was moved on to Fort Benton by going north up Cow Creek and then west.",
+          " In 1877 the Nez Perce Indian Tribe, fleeing to Canada, had several skirmishes along Cow Creek including the \"Battle of Cow Island\", and several days later at a camp on Cow Creek the Nez Perce, thinking themselves now beyond the reach of the U.S. Army, made the fateful decision to slow down, rather than push on for the Canada–US border.",
+          " Today, modern highways have by passed Cow Creek, and the buffalo and the nomadic Indian are gone.",
+          " Cow Creek is dormant, in one of the most remote spots of the isolated regions of the vast area known as the Montana Missouri Breaks."
+        ]
+      ],
+      [
+        "Lithia Springs Creek",
+        [
+          "Lithia Springs Creek (also known as Johnsons Run or Lithia Spring Creek) is a tributary of the Susquehanna River in Northumberland County, Pennsylvania, in the United States.",
+          " It is approximately 3.2 mi long and flows through Point Township.",
+          " The watershed of the creek has an area of 8.96 sqmi .",
+          " It has a named tributary known as Johnson Creek.",
+          " Waste of various types is discharged into Lithia Springs Creek from a variety of sources.",
+          " At least one bridge more than 20 ft long crosses the creek.",
+          " The creek is considered to be a Coldwater Fishery and a Migratory Fishery.",
+          " It is inhabited by wild trout and possibly a few other species of fish."
+        ]
+      ],
+      [
+        "Locks Creek",
+        [
+          "Locks Creek is a 1.9 mi stream in San Mateo County, California.",
+          " It is the largest tributary of Frenchmans Creek, a larger stream."
+        ]
+      ],
+      [
+        "East Branch South Fork Eel River",
+        [
+          "The East Branch South Fork Eel River, a tributary of the South Fork Eel River, is formed by the confluence of Cruso Cabin Creek and Elkhorn Creek, in Mendocino County in the U.S. state of California.",
+          " The river is roughly 25 mi long, meandering west to its confluence with the South Fork Eel at Benbow Lake State Recreation Area.",
+          " Major tributaries of the East Branch include Buck Mountain Creek, Squaw Creek, Rays Creek, and Tom Long Creek.",
+          " The river flows west, turns north, and flows west again, through rugged terrain in the Coast Range of California.",
+          " The East Branch is the South Fork Eel's largest tributary."
+        ]
+      ],
+      [
+        "Darling River",
+        [
+          "The Darling River is the third longest river in Australia, measuring 1472 km from its source in northern New South Wales to its confluence with the Murray River at Wentworth, New South Wales.",
+          " Including its longest contiguous tributaries it is 2844 km long, making it the longest river system in Australia."
+        ]
+      ],
+      [
+        "Frenchmans Creek (New South Wales)",
+        [
+          "Frenchmans Creek is a short tributary of the Darling River in west New South Wales, measuring 7.51 km from its source south of Pooncarie, New South Wales at an elevation of 54.4 m to its confluence into the Darling River at an elevation of 48 m ."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: How long is the river for which Frenchmans Creek is a tributary?",
+          "It claims that the correct answer is Locks Creek, not 1472 km or 2844 km.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Locks Creek"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a76fe7b5542994aec3b71b2",
+    "answer": "Institute for Advanced Study or Princeton University",
+    "question": "Eric Stark Maskin was a  teacher for which university, located in New Jersey?",
+    "supporting_facts": [
+      [
+        "Eric Maskin",
+        0
+      ],
+      [
+        "Institute for Advanced Study",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Hackensack University Medical Center",
+        [
+          "Hackensack University Medical Center (HackensackUMC) is a 900-bed non-profit, research and teaching hospital located seven miles (11 km) west of New York City, in Hackensack, Bergen County, New Jersey, providing tertiary and healthcare needs for northern New Jersey and the New York metropolitan area.",
+          " HUMC is New Jersey's largest provider of inpatient and outpatient services and is the fourth largest hospital in the nation based on admissions.",
+          " HUMC is affiliated with the New Jersey Medical School of Rutgers University."
+        ]
+      ],
+      [
+        "Carroll N. Jones III",
+        [
+          "Carroll Nathaniel Jones III (July 2, 1944 - June 22, 2017) was an artist in the style of American realism.",
+          " Carroll grew up in New Providence, New Jersey where his father, an illustrator for Life (magazine), was his first art teacher.",
+          " He taught Carroll techniques of the Old Masters, who emphasized light, perspective, and composition.",
+          " Carroll went to school in New York City (NYC) and enrolled in the Phoenix School of Design at age 17.",
+          " He later attended Hartford Art School and became a commissioned portraitist for 10 years.",
+          " His work, \"Church Window\" was recognized in the New York Times, and he moved away from portraits to recreate scenes that sparked memories of his childhood.",
+          " He was most influenced by Andrew Wyeth and Edward Hopper.",
+          " The Coe-Kerr Gallery of NYC and Whistler's Daughter Gallery of New Jersey represented him, as well as contemporaries Wyeth and Hopper.",
+          " Malcolm Forbes, Frederick R. Koch, Stephen Sondheim, William Schuman, and Jean Shepherd held private collections of his work.",
+          " He exhibited at Newark Museum and Trenton Art Museum in New Jersey, and in universities, galleries and museums in seven states by his mid-thirties.",
+          " His work is part of the permanent collections of Seton Hall University and Newark Museum.",
+          " Art critic Marion Filler considered his work Magic realism, a quiet movement made popular in America beginning in the 1920s by Hopper, and related to Surrealism."
+        ]
+      ],
+      [
+        "William Paterson University",
+        [
+          "William Paterson University, officially William Paterson University of New Jersey (William Paterson University of NJ)(The William Paterson University of New Jersey) (William Paterson College of New Jersey) (WPUNJ), is an American public university located in Wayne, New Jersey, United States.",
+          " Founded in 1855, William Paterson is the second oldest of the nine state colleges and universities in New Jersey.",
+          " William Paterson offers undergraduate, graduate and doctoral degrees through its five academic colleges.",
+          " During the fall 2016 semester, 9,103 undergraduate students and 1,480 graduate students were enrolled."
+        ]
+      ],
+      [
+        "Dave White (writer born 1979)",
+        [
+          "Dave White (born 1979) is a Derringer Award-winning mystery author and educator.",
+          " White, an eighth grade teacher for the Clifton, NJ Public School district, has written two novels featuring former New Brunswick, New Jersey police detective turned private investigator Jackson Donne.",
+          " The novels take place in locations around northern New Jersey.",
+          " White grew up in Clifton, New Jersey.",
+          " He attended Rutgers University and received his MAT from Montclair State University"
+        ]
+      ],
+      [
+        "Eric Maskin",
+        [
+          "Eric Stark Maskin (born December 12, 1950) is an American economist and 2007 Nobel laureate recognized with Leonid Hurwicz and Roger Myerson \"for having laid the foundations of mechanism design theory\".",
+          " He is the Adams University Professor at Harvard University.",
+          " Until 2011, he was the Albert O. Hirschman Professor of Social Science at the Institute for Advanced Study, and a visiting lecturer with the rank of professor at Princeton University."
+        ]
+      ],
+      [
+        "Institute for Advanced Study",
+        [
+          "The Institute for Advanced Study (IAS) in Princeton, New Jersey, in the United States, is an independent, postdoctoral research center for theoretical research and intellectual inquiry founded in 1930 by American educator Abraham Flexner, together with philanthropists Louis Bamberger and Caroline Bamberger Fuld."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Eric Stark Maskin was a  teacher for which university, located in New Jersey?",
+          "It claims that the correct answer is Carroll N. Jones III, not Institute for Advanced Study or Princeton University.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Carroll N. Jones III"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a8ff69655429916514e73f1",
+    "answer": "Jack Cassidy",
+    "question": "Who co-starred in an episode of The ABC Comedy Hour with the man who played Duke Slater in \"Gomer Pyle, U.S.M.C.\"? ",
+    "supporting_facts": [
+      [
+        "The ABC Comedy Hour",
+        0
+      ],
+      [
+        "Ronnie Schell",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "The Gomers",
+        [
+          "The Gomers are a Madison, Wisconsin based comedy rock/experimental music/progressive rock band.",
+          " Former Madison Mayors Dave Cieslewicz and Sue Baumann both proclaimed February 1 as \"Gomer Day\" in Madison.",
+          " Their name was taken from Gomer Pyle."
+        ]
+      ],
+      [
+        "List of Gomer Pyle, U.S.M.C. episodes",
+        [
+          "\"Gomer Pyle, U.S.M.C.\" is an American situation comedy created by Aaron Ruben that originally aired on CBS from September 25, 1964, to May 2, 1969.",
+          " The series was a spinoff of \"The Andy Griffith Show\", and the pilot episode was introduced as the final fourth season episode which aired on May 18, 1964.",
+          " The show ran for five seasons, with a total of 150 half-hour episodes.",
+          " Despite the series' positive reception (the show remained in the Top 10 Nielsen ratings for all five seasons), Nabors quit because he desired to move to something else, 'reach for another rung on the ladder, either up or down'.",
+          " In 2006, CBS began releasing the show on DVD; the last season was released in November 2008."
+        ]
+      ],
+      [
+        "Andy Taylor (The Andy Griffith Show)",
+        [
+          "Sheriff Andrew \"Andy\" Jackson Taylor and in earlier episodes as Cousin Andy by Barney Fife is the major character on \"The Andy Griffith Show\", an American sitcom which aired on CBS, (1960–1968).",
+          " He also appears in the \"Gomer Pyle, U.S.M.C.\" episode \"Opie Joins the Marines\", made a cameo appearance in the USMC episode \"Gomer Goes Home,\" five episodes of \"Mayberry R.F.D.\" (1968–1971) and the reunion telemovie \"Return to Mayberry\" (1986).",
+          " The character made his initial appearance in an episode of \"The Danny Thomas Show\" entitled \"Danny Meets Andy Griffith.\"",
+          " In the CBS special \"The Andy Griffith - Don Knotts - Jim Nabors Show\" (1965), Andy and Barney are featured in a musical sketch about their friendship and recreate some classic moments between the characters.",
+          " Andy Griffith, as Sheriff Taylor, also has a brief comedy cameo in \"Rowan and Martin at the Movies\" (1969), a PSA short subject promoting the purchase of U.S. Savings Bonds.",
+          " Andy Taylor appeared in all 249 episodes of \"The Andy Griffith Show\" and was played by comedian and actor Andy Griffith."
+        ]
+      ],
+      [
+        "Claude Osteen",
+        [
+          "Claude Wilson Osteen (born August 9, 1939), nicknamed \"Gomer\" because of his resemblance to Gomer Pyle, is a former Major League Baseball left-handed pitcher.",
+          " He pitched for six different teams: the Cincinnati Redlegs/Reds (1957–61), Washington Senators (1961–64), Los Angeles Dodgers (1965–73), Houston Astros (1974), St. Louis Cardinals (1974), and Chicago White Sox (1975)."
+        ]
+      ],
+      [
+        "The ABC Comedy Hour",
+        [
+          "The ABC Comedy Hour was an American television variety series that aired on ABC in 1972.",
+          " Seven of the 13 episodes featured a guest host and a team of comedy impressionists known as The Kopykats (Rich Little, Frank Gorshin, Joe Baker, Marilyn Michaels, George Kirby, and Fred Travalena, with single appearances by Charlie Callas, Will Jordan, and Peter Goodwright).",
+          " Guest hosts included Steve Lawrence, Orson Welles, Ed Sullivan, Raymond Burr, Robert Young, Debbie Reynolds and Tony Curtis.",
+          " The remaining six episodes were variety specials and included two Friars Club roasts and a revival of the musical \"Hellzapoppin'\" starring Jack Cassidy and Ronnie Schell."
+        ]
+      ],
+      [
+        "Ronnie Schell",
+        [
+          "Ronald Ralph \"Ronnie\" Schell (born December 23, 1931) is an American actor, stand-up comedian, and voice actor.",
+          " He appeared on May 28, 1959, episode of the TV quiz program \"You Bet Your Life\", hosted by Groucho Marx.",
+          " Schell demonstrated a comic barrage of beatnik jive talk.",
+          " As a stand-up comedian, he first developed his act at the world-famous hungry-i nightclub in San Francisco, California.",
+          " Schell is probably best known in his 1960s television role as Duke Slater in \"Gomer Pyle, U.S.M.C.\""
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Who co-starred in an episode of The ABC Comedy Hour with the man who played Duke Slater in \"Gomer Pyle, U.S.M.C.\"? ",
+          "It claims that the correct answer is a different company, not Jack Cassidy.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different company"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ab915ad55429919ba4e239c",
+    "answer": "Jimmy Ellis",
+    "question": "Who did Muhummad Ali fight next, in Houston, after the so-called Fight of the Century with Joe Frazier?",
+    "supporting_facts": [
+      [
+        "Muhammad Ali vs. Jimmy Ellis",
+        0
+      ],
+      [
+        "Fight of the Century (disambiguation)",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Muhammad Ali vs. Jimmy Ellis",
+        [
+          "Muhammad Ali and Jimmy Ellis fought each other in a boxing match at the Astrodome in Houston on July 26, 1971.",
+          " Ali won the bout through a technical knockout when the referee stopped the fight in the twelfth round.",
+          " This was Ali's first boxing match after Fight of the Century."
+        ]
+      ],
+      [
+        "Cassius Clay vs. Don Warner",
+        [
+          "Cassius Clay (soon Muhammad Ali) fought a ten-round boxing match with Don Warner in Miami on February 28, 1962.",
+          " Clay won the fight through a technical knockout after the referee stopped the fight in the fourth round.Warner would later serve as a sparring partner for Joe Frazier."
+        ]
+      ],
+      [
+        "Fight of the Century",
+        [
+          "The Fight of the Century (also known as The Fight) is the title boxing writers and historians have given to the boxing match between WBC/WBA heavyweight champion Joe Frazier (26–0, 23 KOs) and Ring magazine/lineal heavyweight champion"
+        ]
+      ],
+      [
+        "George Chuvalo",
+        [
+          "George Louis Chuvalo, CM (born September 12, 1937) is a retired Canadian professional boxer who was a five-time Canadian heavyweight champion, and two-time world heavyweight title challenger.",
+          " Chuvalo, who is considered by many to have one of the best chins in boxing history, was never knocked down in his amateur career or his 93-fight professional career and was ranked #4 on ESPN's greatest chin in boxing history list.",
+          " Chuvalo lost to Hall of Fame heavyweights such as Floyd Patterson, Muhammad Ali, Joe Frazier and George Foreman, but was credited for his spirited performances.",
+          " He did defeat top contenders such as Yvon Durelle, Doug Jones, Jerry Quarry and Cleveland Williams.",
+          " He fought for the world title twice, losing a controversial decision to Ernie Terrell and another decision in his first fight with Ali."
+        ]
+      ],
+      [
+        "Thrilla in Manila",
+        [
+          "The Thrilla in Manila was the third and final boxing match between Muhammad Ali and Joe Frazier.",
+          " It was contested in 1975 for the heavyweight championship of the world at the Philippine Coliseum in Cubao, Quezon City, Philippines, on Wednesday, October 1.",
+          " The venue was renamed from Araneta Coliseum, specifically for the match.",
+          " Ali won by technical knockout (TKO) after Frazier's chief second, Eddie Futch, conceded the fight prior to the 15th round.",
+          " The contest's name is derived from the frequent rhyming boast made by Ali that the fight would be a \"killa and a thrilla and a chilla, when I get that gorilla in Manila.\""
+        ]
+      ],
+      [
+        "Fight of the Century (disambiguation)",
+        [
+          "Fight of the Century usually refers to the 1971 boxing match between Muhammad Ali and Joe Frazier."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Who did Muhummad Ali fight next, in Houston, after the so-called Fight of the Century with Joe Frazier?",
+          "It claims that the correct answer is Thrilla in Manila, not Jimmy Ellis.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Thrilla in Manila"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a78eea555429970f5fffddf",
+    "answer": "Richard Boleslawski",
+    "question": "Q: Who was born first Richard Boleslawski or Herschell Gordon Lewis?",
+    "supporting_facts": [
+      [
+        "Herschell Gordon Lewis",
+        0
+      ],
+      [
+        "Richard Boleslawski",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "A Taste of Blood",
+        [
+          "A Taste of Blood is a 1967 American horror film, produced and directed by Herschell Gordon Lewis.",
+          " It stars, among others, Bill Rogers and Elizabeth Wilkinson.",
+          " The movie was also known as \"The Secret of Dr. Alucard\".",
+          " Lewis considered this his masterpiece, which may account for the film's relatively long running time of two hours (most of Lewis's films run no longer than 80 minutes)."
+        ]
+      ],
+      [
+        "Suburban Roulette",
+        [
+          "Suburban Roulette is a 1968 American drama film directed by Herschell Gordon Lewis starring, among others, William Kerwin and Allison Louise Downe who are involved in wife swapping to overcome the boredom of living in the suburbs.",
+          " It was produced as an independent film by Lewis and was shown in Chicago area movie theaters during the summer of 1968.",
+          " It contains implied sex, boozing, adult themes, fighting, but is without nudity (which would have prohibited mainstream movie theater distribution)."
+        ]
+      ],
+      [
+        "Herschell Gordon Lewis",
+        [
+          "Herschell Gordon Lewis (June 15, 1926 – September 26, 2016) was an American filmmaker, best known for creating the \"splatter\" subgenre of horror films.",
+          " He is often called the \"Godfather of Gore\" (a title also given to Lucio Fulci), though his film career included works in a range of exploitation film genres including juvenile delinquent films, nudie-cuties, two children's films and at least one rural comedy.",
+          " On Lewis' career, AllMovie wrote: \"With his better-known gore films, Herschell Gordon Lewis was a pioneer, going farther than anyone else dared, probing the depths of disgust and discomfort onscreen with more bad taste and imagination than anyone of his era.\""
+        ]
+      ],
+      [
+        "The Adventures of Lucky Pierre",
+        [
+          "The Adventures of Lucky Pierre is a 1961 nudie cutie film created by exploitation filmmakers Herschell Gordon Lewis and David F. Friedman.",
+          " The first of its kind to be filmed in color, the film starred comedian Billy Falbo.",
+          " It was unique for its time and genre, adding successful comedy to the nudity and sensationalist material."
+        ]
+      ],
+      [
+        "Blood Feast 2: All U Can Eat",
+        [
+          "Blood Feast 2: All U Can Eat is a 2002 splatter film directed by Herschell Gordon Lewis.",
+          " It is a sequel to Lewis's 1963 cult classic original \"Blood Feast\".",
+          " Filmed under a working title of \"Blood Feast 2: Buffet of Blood\" and using the same grindhouse style as its predecessor, the film continues the story began in the original film, where a grandson of Fuad Ramses attempts to restart his grandfather's catering business.",
+          " The film features a cameo appearance by John Waters, a fan of Lewis' work."
+        ]
+      ],
+      [
+        "Richard Boleslawski",
+        [
+          "Richard Boleslavsky or Richard Boleslawski (February 4, 1889 – January 17, 1937) was a Polish theatre and film director, actor and teacher of acting."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Q: Who was born first Richard Boleslawski or Herschell Gordon Lewis?",
+          "It claims that the correct answer is a different company, not Richard Boleslawski.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "comparison",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different company"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a8a502b5542996c9b8d5ea6",
+    "answer": "Dr. Brewster M. Higley",
+    "question": "Who wrote the lyrics to the theme song that was used by the Western film series Range Busters?",
+    "supporting_facts": [
+      [
+        "Home on the Range",
+        0
+      ],
+      [
+        "Range Busters",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Tonto Basin Outlaws",
+        [
+          "Tonto Basin Outlaws is a 1941 American film directed by S. Roy Luby, the tenth of the entries in the Range Busters series.",
+          " Despite the film's title, the action takes place in Montana, not Arizona's Tonto Basin.",
+          " Like the other of the Range Busters series, the film was shot at Corriganville Movie Ranch and used footage from silent Westerns."
+        ]
+      ],
+      [
+        "Home on the Range",
+        [
+          "\"Home on the Range\" is a classic western folk song sometimes called the \"unofficial anthem\" of the American West.",
+          " The lyrics were originally written by Dr. Brewster M. Higley of Smith County, Kansas, in a poem entitled \"My Western Home\" in 1872.",
+          " In 1947, it became the state song of the U.S. state of Kansas.",
+          " In 2010, members of the Western Writers of America chose it as one of the Top 100 western songs of all time."
+        ]
+      ],
+      [
+        "Trail Riders",
+        [
+          "Trail Riders is a 1942 American film directed by Robert Emmett Tansey, one of the Range Busters series."
+        ]
+      ],
+      [
+        "Underground Rustlers",
+        [
+          "Underground Rustlers is a 1941 American film directed by S. Roy Luby, one of the films in the Range Busters series.",
+          " The film is also known as Bullets and Bullion (US review title)."
+        ]
+      ],
+      [
+        "Wild Horse Stampede",
+        [
+          "Wild Horse Stampede is a 1943 American Western film, directed by Alan James and starring Ken Maynard and Hoot Gibson playing marshals with their own names in the manner of Gene Autry and Roy Rogers.",
+          " It was the first of eight Monogram Pictures \"The Trail Blazers\" film series, replacing the studio's Range Busters series."
+        ]
+      ],
+      [
+        "Range Busters",
+        [
+          "The Range Busters was a film series of 24 Westerns of the adventures of a trio of cowboys, many filmed at the Corriganville Movie Ranch, produced by George W. Weeks and distributed by Monogram Pictures.",
+          " The series used \"Home on the Range\" as its theme song with each film featuring the heroes waving goodbye and promising to return in another adventure."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Who wrote the lyrics to the theme song that was used by the Western film series Range Busters?",
+          "It claims that the correct answer is a different company, not Dr. Brewster M. Higley.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different company"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ae4a3265542995ad6573de5",
+    "answer": "Fujioka, Gunma",
+    "question": "Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?",
+    "supporting_facts": [
+      [
+        "Hayden (musician)",
+        0
+      ],
+      [
+        "Buck-Tick",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Atsushi Sakurai",
+        [
+          "Atsushi Sakurai (櫻井 敦司 , Sakurai Atsushi , born March 7, 1966 in Fujioka, Gunma) is a Japanese musician and singer-songwriter.",
+          "He has been the vocalist of the rock band Buck-Tick since 1985, previously being their drummer from 1983.",
+          "He released the solo album \"Ai no Wakusei\" in 2004 and was also a member of Schwein alongside Hisashi Imai (Buck-Tick), Sascha Konietzko (KMFDM) and Raymond Watts.",
+          "In 2015, he formed a solo project called The Mortal."
+        ]
+      ],
+      [
+        "Hayden (musician)",
+        [
+          "Paul Hayden Desser (born February 12, 1971) who records as Hayden, is a Canadian singer-songwriter from Thornhill, Ontario."
+        ]
+      ],
+      [
+        "Alberta Hail Project",
+        [
+          "The Alberta Hail Project was a research project sponsored by the Alberta Research Council and Environment Canada to study hailstorm physics and dynamics in order to design and test means for suppressing hail.",
+          "It ran from 1956 until 1985.",
+          "The main instrument in this research was an S-band circularly polarized weather radar located at the Red Deer Industrial Airport in central Alberta, Canada."
+        ]
+      ],
+      [
+        "Mild and Hazy",
+        [
+          "Mild and Hazy is a 7\" vinyl single by Canadian singer-songwriter Hayden.",
+          "It was released in 1996 on Hayden's own label, Hardwood Records as well as on Lunamoth.",
+          "The cover is a photograph of Hayden as a toddler.",
+          "The song \"Gouge Away\" is a cover of the Pixies, from their album \"Doolittle\"."
+        ]
+      ],
+      [
+        "Masami Tsuchiya",
+        [
+          "Masami Tsuchiya is a Japanese singer-songwriter and musician, coming to prominence in the late 1970s as the lead vocalist and guitarist in the group Ippu-Do.",
+          "His subsequent output includes solo work and collaborations.",
+          "Tsuchiya has worked with artists as diverse as English new wave rockers Japan and Bill Nelson, Japanese electronica composer Ryuichi Sakamoto, Duran Duran side-project Arcadia, and Japanese rock band Buck-Tick."
+        ]
+      ],
+      [
+        "Buck-Tick",
+        [
+          "Buck-Tick (stylized as BUCK-TICK) is a Japanese rock band, formed in Fujioka, Gunma in 1983.",
+          "The group has consisted of Atsushi Sakurai (lead vocals), Hisashi Imai (guitar), Hidehiko Hoshino (guitar), Yutaka Higuchi (bass) and Toll Yagami (drums) since 1985.",
+          "In their three decade career, the band has released 20 studio albums, nearly all reaching the top ten on the charts, of which three in the late eighties and early nineties topped them.",
+          "They are commonly credited as one of the founders of the visual kei movement."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Hayden is a singer-songwriter from Canada, but where does Buck-Tick hail from?",
+          "It claims that the correct answer is Alberta Hail Project, not Fujioka, Gunma.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "comparison",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Alberta Hail Project"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a77a7695542997042120ac4",
+    "answer": "The Private Life of Plants",
+    "question": "Which documentary is the oldest, The Private Life of Plants or Marx Reloaded?",
+    "supporting_facts": [
+      [
+        "Marx Reloaded",
+        0
+      ],
+      [
+        "The Private Life of Plants",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Marx Reloaded",
+        [
+          "Marx Reloaded is a 2011 German documentary film written and directed by the British writer and theorist Jason Barker.",
+          " Featuring interviews with several well-known philosophers, the film aims to examine the relevance of Karl Marx's ideas in relation to the Great Recession.",
+          " The film's title is a wordplay on \"The Matrix Reloaded\", the sequel to \"The Matrix,\" which is parodied in the documentary."
+        ]
+      ],
+      [
+        "Chico Marx",
+        [
+          "Leonard Marx (March 22, 1887 – October 11, 1961), known professionally as Chico Marx, was an American comedian, musician, bandleader, actor and film star.",
+          " He was a member of the Marx Brothers (Groucho Marx, Harpo Marx, and Zeppo Marx).",
+          " His persona in the act was that of a charming, dim-witted albeit crafty con artist, seemingly of rural Italian origin, who wore shabby clothes and sported a curly-haired wig and Tyrolean hat.",
+          " In virtually every film that includes the main trio of the Marx Brothers, Chico is seen working with Harpo Marx, usually as partners in crime.",
+          " Leonard was the oldest of the Marx Brothers to live past early childhood (first-born Manfred Marx had died in infancy).",
+          " In addition to his work as a performer, he played an important role in the management and development of the act in its early years."
+        ]
+      ],
+      [
+        "The Private Life of Plants",
+        [
+          "The Private Life of Plants is a BBC nature documentary series written and presented by David Attenborough, first shown in the United Kingdom from 11 January 1995."
+        ]
+      ],
+      [
+        "Work–life interface",
+        [
+          "Work–life interface is the intersection of work and private life.",
+          " There are many aspects of one's personal life that can intersect with work including family, leisure, and health.",
+          " Work–life interface is bidirectional; for instance, work can interfere with private life, and private life can interfere with work.",
+          " This interface can be adverse in nature (e.g., work-life conflict) or can be beneficial (e.g., work-life enrichment) in nature."
+        ]
+      ],
+      [
+        "The Private Life of Louis XIV",
+        [
+          "The Private Life of Louis XIV or Liselotte of the Palatinate (German:Liselotte von der Pfalz) is a 1935 German historical film directed by Carl Froelich and starring Renate Müller, Eugen Klöpfer and Maria Krahn.",
+          " The film's English language release title is a reference to the hit British film \"The Private Life of Henry VIII\" (1933)."
+        ]
+      ],
+      [
+        "The Private Life of the Gannets",
+        [
+          "The Private Life of the Gannets is a 1934 British short documentary film, directed by Julian Huxley, about a colony of Northern Gannet (Morus bassanus) on the small rocky island of Grassholm, off the coast of Wales.",
+          " It received a special mention at the 3rd Venice International Film Festival in 1935 and won the Best Short Subject (One-Reel) at the 10th Academy Awards in 1938.",
+          " The title was chosen by producer Alexander Korda as a reference to \"The Private Life of Henry VIII\" (1933), his breakthrough film of the previous year."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Which documentary is the oldest, The Private Life of Plants or Marx Reloaded?",
+          "It claims that the correct answer is The Private Life of the Gannets, not The Private Life of Plants.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "comparison",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "The Private Life of the Gannets"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a8587dd5542997b5ce40000",
+    "answer": "Total Nonstop Action Wrestling",
+    "question": "What program did this Basham brother who appeared with World Wrestling Entertainment between 2002 and 2007 participated in 2007?",
+    "supporting_facts": [
+      [
+        "Doug Basham",
+        0
+      ],
+      [
+        "The Basham Brothers",
+        0
+      ],
+      [
+        "Daniel Hollie",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "World Championship Wrestling",
+        [
+          "World Championship Wrestling, Inc. (WCW) was an American professional wrestling promotion, historically based in Atlanta, Georgia.",
+          " It began as a regional (mid-Atlantic U.S.), National Wrestling Alliance (NWA)-affiliated \"territory\" promotion – Jim Crockett Promotions – until November 1988, when Ted Turner (through his Turner Broadcasting System business) bought the promotion, whose struggle to compete with Vince McMahon's World Wrestling Federation (now World Wrestling Entertainment, or WWE) had left it near bankruptcy.",
+          " Immediately after the buyout, the business was renamed the Universal Wrestling Corporation (UWC) and consisted of Crockett's business assets not picked up by World Wrestling Federation Entertainment.",
+          " In its early years, WCW was buoyed by established NWA performers such as Ric Flair and Dusty Rhodes, along with emerging stars like Lex Luger, and Sting, who would go on to be dubbed \"The Franchise of WCW\"."
+        ]
+      ],
+      [
+        "Doug Basham",
+        [
+          "Lyle Douglas \"Doug\" Basham Jr. (born May 12, 1971) is an American professional wrestler, He is best known for his appearances with World Wrestling Entertainment between 2002 and 2007, and Total Nonstop Action Wrestling under the ring name Basham in 2007."
+        ]
+      ],
+      [
+        "Daniel Hollie",
+        [
+          "Daniel Richard \"Danny\" Holle (born October 3, 1977) is an American professional wrestler, currently working on the independent circuit.",
+          " Holle is best known for his appearances with World Wrestling Entertainment between 2003 and 2006, and Total Nonstop Action Wrestling in 2007 under the ring names Danny Holliday, (The) Damaja and Danny Basham."
+        ]
+      ],
+      [
+        "2007 WWE draft",
+        [
+          "The 2007 World Wrestling Entertainment (WWE) draft lottery took place at the Wachovia Arena in Wilkes-Barre, Pennsylvania on June 11, 2007.",
+          " The first half of the draft was televised live for three hours on World Wrestling Entertainment's flagship program, \"Raw\" on USA Network.",
+          " The second half of the draft, or the \"supplemental draft\", was conducted over WWE's website, WWE.com, for four hours on June 17, 2007 as draft picks were announced at twenty-minute intervals.",
+          " There were twenty-three draft picks, with twenty-seven wrestlers drafted overall, between the promotion's three brands: Raw, SmackDown!",
+          ", and ECW.",
+          " For the televised half of the draft, each brand's draft pick was determined by nine matches, one being a battle royal for two draft picks, where wrestlers from their respective brands wrestled to earn a draft pick.",
+          " The supplemental draft, however, was conducted randomly, with each brand receiving random draft selections.",
+          " Raw and SmackDown!",
+          " received five random draft picks, while ECW received three random draft picks.",
+          " The televised draft picks were randomly selected by a computer that was shown on the Raw titantron.",
+          " Every WWE wrestler from Raw, SmackDown!",
+          ", and ECW was eligible to be drafted."
+        ]
+      ],
+      [
+        "Bruce Prichard",
+        [
+          "Bruce Prichard (born March 7, 1963) is a professional wrestling personality currently signed to Global Force Wrestling as both an on-air talent and in a backstage advisory role.",
+          " He is perhaps best known as a manager and producer for World Wrestling Entertainment (WWE, formerly the World Wrestling Federation).",
+          " As a manager for the promotion, Prichard performed under the ring name Brother Love and served as the original manager of The Undertaker.",
+          " During Prichard's run as Brother Love, he hosted his own segment \"The Brother Love Show\" where he would usually support the heel wrestlers.",
+          " After leaving WWE, Prichard was the Senior Vice President of Programming and Talent Relations for Total Nonstop Action Wrestling (TNA, now Global Force Wrestling).",
+          " Prichard and Conrad Thompson co-host the podcast \"Something to Wrestle with Bruce Prichard.\""
+        ]
+      ],
+      [
+        "The Basham Brothers",
+        [
+          "The Basham Brothers were a professional wrestling tag team, composed of Doug Basham and Danny Basham.",
+          " The team is best known for their work with World Wrestling Entertainment (WWE) and Total Nonstop Action Wrestling (TNA)."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: What program did this Basham brother who appeared with World Wrestling Entertainment between 2002 and 2007 participated in 2007?",
+          "It claims that the correct answer is Doug Basham, not Total Nonstop Action Wrestling.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Doug Basham"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a772c925542993735360208",
+    "answer": "The Farming Game",
+    "question": "Which was published first Polarity or The Farming Game?",
+    "supporting_facts": [
+      [
+        "The Farming Game",
+        0
+      ],
+      [
+        "Polarity (game)",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "The Farming Game",
+        [
+          "The Farming Game is a board game simulating the economics of a small farm.",
+          " Published in 1979, it was designed by George Rohrbacher, a rancher in Washington State.",
+          " \"The Farming Game\" painfully reflects the real-life difficulties of running a farm.",
+          " Also, the names and places in the game are the names of families farming for generations in Yakima Valley and other parts of Central Washington.",
+          " When Rohrbacher invented the game, it was a desperate time for his failing farm and small family, which is reflected in the difficulty of the game, and the multitude of points taken into consideration in farming that are often left up to chance.",
+          " It is considered a board game which has educational value."
+        ]
+      ],
+      [
+        "Outland (video game)",
+        [
+          "Outland is a platform game developed by Housemarque and published by Ubisoft.",
+          " The game combines two-dimensional platforming with a polarity system similar to Treasure's \"Ikaruga\" and \"Silhouette Mirage\".",
+          " \"Outland\" was released in April 27, 2011 for Xbox Live Arcade.",
+          " The PlayStation 3 version was delayed because of the PlayStation Network outage then later released on June 14, 2011.",
+          " A Windows version was released on September 29, 2014.",
+          " The Linux version was released on February 25, 2015."
+        ]
+      ],
+      [
+        "Polarity (game)",
+        [
+          "Polarity is a board game that requires strategic thinking and dexterity to control hovering magnetic discs.",
+          " \"Polarity\" was invented in 1985 by Canadian artist and designer Douglas Seaton.",
+          " It was first published in 1986.",
+          " The game has had a tumultuous past, with its rights changing hands several times over the past two decades.",
+          " The game has been published by Telemotion Technologies, Irwin Toy, briefly with Mattel and most recently by Temple Games.",
+          " The game ships in a canvas sleeve and include the magnets, the board, and a paper rulebook.",
+          " An unrelated game of the same name is published by a company called Mindwalk (Company)."
+        ]
+      ],
+      [
+        "Family Farm Seaside",
+        [
+          "Family Farm Seaside, one of the top grossing mobile games developed and published by Beijing based videogame company FunPlus, is a farming game available for free on both iOS and Android platforms, and available in 18 languages."
+        ]
+      ],
+      [
+        "Hay Day",
+        [
+          "Hay Day is a freemium mobile farming game developed and published by Supercell.",
+          " Hay Day was released for iOS on June 21, 2012 and Android on November 20, 2013.",
+          " According to a 2013 report, Supercell earned $30 million a month from Hay Day and Clash of Clans, another game made by Supercell.",
+          " In 2013, Hay Day was the 4th highest game in revenue generated."
+        ]
+      ],
+      [
+        "International Superstar Soccer Deluxe",
+        [
+          "International Superstar Soccer Deluxe (officially abbreviated as ISS Deluxe and known as Jikkyou World Soccer 2: Fighting Eleven in Japan) is a football video game and the sequel to International Superstar Soccer developed and published Konami's, KCEO division.",
+          " The Deluxe version was published first to the SNES, then the Mega Drive and finally the PlayStation."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Which was published first Polarity or The Farming Game?",
+          "It claims that the correct answer is Polarity, not The Farming Game.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "comparison",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Polarity"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5a8e8d665542995085b3744e",
+    "answer": "Park Yong-gyu",
+    "question": "What was the birth name of the start of Hwarang: The Poet Warrior Youth?",
+    "supporting_facts": [
+      [
+        "Hwarang: The Poet Warrior Youth",
+        0
+      ],
+      [
+        "Park Seo-joon",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Hwarang: The Poet Warrior Youth",
+        [
+          "Hwarang: The Poet Warrior Youth () is a South Korean television series starring Park Seo-joon, Go A-ra, and Park Hyung-sik.",
+          " It evolves around an elite group of young men called \"Hwarang\" who discover their passions, love and friendship in the turmoil of the Silla Kingdom (57 B.C. - A.D. 935).",
+          " The series aired every Monday and Tuesday at 22:00 (KST) on KBS2, from December 19, 2016 to February 21, 2017."
+        ]
+      ],
+      [
+        "Hwarang",
+        [
+          "Hwarang, also known as Flowering Knights, were an elite warrior group of male youth in Silla, an ancient Korean kingdom that lasted until the 10th century AD.",
+          " There were educational institutions as well as social clubs where members gathered for all aspects of study, originally for arts and culture as well as religious teachings stemming mainly from Buddhism.",
+          " Chinese sources referred only to the physical beauty of the \"Flower Youths\".",
+          " Originally, the hwarang were known for their use of make-up and cosmetic decorations and accessories.",
+          " The history of the hwarang was not widely known until after the liberation of 1945, after which the hwarang became elevated to a symbolic importance."
+        ]
+      ],
+      [
+        "Po (Kung Fu Panda)",
+        [
+          "Master Po Ping (birth name: Lotus Shan) is the title character and the protagonist of the \"Kung Fu Panda\" franchise.",
+          " He is a young anthropomorphic giant panda in his 20s, who is improbably chosen as the Dragon Warrior, champion of the Valley of Peace in the first film.",
+          " He's the adoptive son of Mr. Ping, and is one of Master Shifu's students.",
+          " Po is also the prophesied Dragon Warrior, as well as the warrior of black and white.",
+          " In \"\", Po's revealed to have the ability to be able to learn kung fu at a glance."
+        ]
+      ],
+      [
+        "Emmanuel F. Lacaba",
+        [
+          "Emmanuel Agapito Flores Lacaba (December 10, 1948 – March 18, 1976), popularly known as Eman Lacaba, was a Filipino writer, poet, essayist, playwright, fictionist, scriptwriter, songwriter and activist and he is considered as the only poet warrior of the Philippines."
+        ]
+      ],
+      [
+        "California Birth Index",
+        [
+          "The California Birth Index (CABI) is a database compiled by the California Office of Health Information and Research.",
+          " The index contains birth records of all registered births in California between 1905 and 1995.",
+          " Each record is an abstract of a person's birth certificate, including date of birth, full name, county of birth, gender, and mother's maiden name.",
+          " People who have been adopted are sometimes listed by their birth name, sometimes listed by their adopted name, sometimes by both and sometimes not listed at all.",
+          " The CABI is considered a valuable genealogy tool but is also criticized for privacy issues.",
+          " California began statewide civil registration of births on July 1, 1905.",
+          " Earlier birth records may exist in the county where the birth took place or at the church where a baptism took place."
+        ]
+      ],
+      [
+        "Park Seo-joon",
+        [
+          "Park Seo-joon (born Park Yong-gyu) is a South Korean actor.",
+          " He is best known for his roles in the television dramas \"Kill Me, Heal Me\" (2015), \"She Was Pretty\" (2015), \"\" (2016-2017) and \"Fight for My Way\" (2017)."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: What was the birth name of the start of Hwarang: The Poet Warrior Youth?",
+          "It claims that the correct answer is a different location, not Park Yong-gyu.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different location"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ae27df25542992decbdcd2a",
+    "answer": "no",
+    "question": "Were Max Jacob and Connie May Fowler both memoirists?",
+    "supporting_facts": [
+      [
+        "Connie May Fowler",
+        0
+      ],
+      [
+        "Max Jacob (puppeteer)",
+        0
+      ],
+      [
+        "Max Jacob",
+        0
+      ],
+      [
+        "Max Schnur",
+        0
+      ],
+      [
+        "Jean-Philippe Salabreuil",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Pierre Dumont (painter)",
+        [
+          "Pierre Jean Baptiste Louis Dumont (29 March 1884, 5th arrondissement, Paris – 8 April 1936, Paris) more commonly known as Pierre Dumont, was a French painter of the Rouen School.",
+          " He was schooled at the Lycée Pierre-Corneille and subsequently studied painting with Joseph Delattre.",
+          " Dumont founded the \"Groupe des XXX\" (1907), and along with Robert Antoine Pinchon, Yvonne Barbier, and Eugène Tirvert founded the Société Normande de Peinture Moderne (1909).",
+          " From 1910 to 1916 Dumont lived at the Le Bateau-Lavoir becoming friends with Juan Gris, Max Jacob and Guillaume Apollinaire.",
+          " He turned towards Cubism during this period and played a crucial role in the organization of the \"Salon de la Section d'Or\" at the Galerie La Boétie in Paris, October 1912."
+        ]
+      ],
+      [
+        "Connie May Fowler",
+        [
+          "Connie May Fowler (born January 3, 1960 to parents of multi-cultural backgrounds) is an American novelist, essayist, memoirist, screenwriter, and poet.",
+          " Her semi-autobiographical novel, \"Before Women had Wings\", received the 1996 Southern Book Critics Circle Award and the Francis Buck Award (League of American Pen Women).",
+          " She adapted the novel for Oprah Winfrey and the subsequent Emmy-winning film starred Winfrey, Ellen Barkin, Julia Stiles, and Tina Majorino.",
+          " \"Remembering Blue\" received the Chautauqua South Literary Award.",
+          " Three of her novels were Dublin International Literary Award nominees.",
+          " Her other novels include \"Sugar Cage\" and \"River of Hidden Dreams\".",
+          " \"The Problem with Murmur Lee\" was Redbook’s premier book club selection.",
+          " Her memoir, \"When Katie Wakes\", explores her family’s generational cycle of domestic violence.",
+          " \"How Clarissa Burden Learned to Fly\", a novel oft compared to Virginia Woolf's \"Mrs. Dalloway\" in term of its structure, was published in 2010.",
+          " Her latest book, a memoir titled \"A Million Fragile bones,\" will be published April 20, 2017 by Twisted Road Publications.",
+          " It explores her life on an isolated barrier island and the horrific impact and aftermath of the Deepwater Horizon BP oil spill.",
+          " Her books have been translated into eighteen languages (http://www.conniemayfowler.com/about.html)."
+        ]
+      ],
+      [
+        "Max Schnur",
+        [
+          "Max Jacob Schnur (born 15 February 1993) is an American tennis player playing on the ATP Challenger Tour.",
+          " On 10 October 2016, he reached his highest ATP singles ranking of 1,464 and his highest doubles ranking of 95 was achieved on 27 February 2017."
+        ]
+      ],
+      [
+        "Jean-Philippe Salabreuil",
+        [
+          "Jean-Philippe Salabreuil (25 May 1940 in Neuilly-sur-Seine – 27 February 1970 in Paris), real name Jean-Pierre Steinbach, was a French poet.",
+          " His first book, \"La Liberté des feuilles\", received awards in the name of Félix Fénéon and Max Jacob.",
+          " He often wrote poems in prose.",
+          " He died at the age of 29; it is possible that he committed suicide."
+        ]
+      ],
+      [
+        "Max Jacob (puppeteer)",
+        [
+          "Max Jacob (born 10 August 1888 in Bad Ems; died 8 December 1967 in Hamburg) was a German puppeteer and the developer of the Hohnsteiner Kasper Theatre in the 1920s."
+        ]
+      ],
+      [
+        "Max Jacob",
+        [
+          "Max Jacob (] ; 12 July 1876 – 5 March 1944) was a French poet, painter, writer, and critic."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: Were Max Jacob and Connie May Fowler both memoirists?",
+          "It claims that the correct answer is Max Jacob, not no.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "comparison",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Max Jacob"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ab5279d5542996a3a96a03f",
+    "answer": "August 6, 1845",
+    "question": "When was the female co-founder of the organization that published the \"Daily Word\" devotional born?",
+    "supporting_facts": [
+      [
+        "Unity Church",
+        0
+      ],
+      [
+        "Myrtle Fillmore",
+        0
+      ],
+      [
+        "Daily Word",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Our Daily Bread",
+        [
+          "Our Daily Bread is a devotional calendar-style booklet published by Our Daily Bread Ministries (formerly RBC Ministries) in over 55 languages."
+        ]
+      ],
+      [
+        "The Word For Today",
+        [
+          "The Word For Today (known as The Word For You Today in some countries) is a free, daily devotional written by American Christian pastor Bob Gass and published around the world by United Christian Broadcasters (UCB).",
+          " Over 3.5 million copies are distributed quarterly worldwide.",
+          " Gass said the devotional \"is a kick start for cold mornings, when you don't feel like reading your Bible or find it a bit dry, that's when you need a good injection of inspiration.",
+          " That's what I want to provide for our readers, something to focus their minds on God's goodness\"."
+        ]
+      ],
+      [
+        "My Utmost for His Highest",
+        [
+          "My Utmost for His Highest is a daily devotional by Oswald Chambers (1874-1917) that compiles his Christian preaching to students and soldiers.",
+          " The book was first published in 1935.",
+          " The copyright was renewed in 1963 by the Oswald Chambers Publications Association, Ltd.",
+          " The \"Updated Edition in Today's Language,\" edited by James Reimann, has appeared in a variety of formats since 1992.",
+          " It relies on the New King James Version of the Bible, and has become a series of Christian devotional journals, calendars, and children's books.",
+          " The title is taken from one of Chambers's sermons, where he says \"Shut out every consideration and keep yourself before God for this one thing only- My Utmost for His Highest\".",
+          " The book is considered to be one of the most popular religious books ever written, inspiring several people such as author Cal Thomas and President George W. Bush."
+        ]
+      ],
+      [
+        "Daily Word",
+        [
+          "The Daily Word is a daily inspirational message provided by Unity.",
+          " Themes include inner peace, hope, healing, guidance, and others.",
+          " It is distributed via print magazine, website, e-mail and through a mobile app."
+        ]
+      ],
+      [
+        "Unity Church",
+        [
+          "Unity, known informally as Unity Church, is a New Thought Christian organization that publishes the \"Daily Word\" devotional publication.",
+          " It describes itself as a \"positive, practical Christianity\" which \"teach[es] the effective daily application of the principles of Truth taught and exemplified by Jesus Christ\" and promotes \"a way of life that leads to health, prosperity, happiness, and peace of mind.\""
+        ]
+      ],
+      [
+        "Myrtle Fillmore",
+        [
+          "Mary Caroline \"Myrtle\" Page Fillmore (August 6, 1845 - October 6, 1931) was co-founder of Unity, a church within the New Thought Christian movement, along with her husband Charles Fillmore.",
+          " Prior to that time, she worked as a schoolteacher."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: When was the female co-founder of the organization that published the \"Daily Word\" devotional born?",
+          "It claims that the correct answer is none of the listed sources, not August 6, 1845.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "none of the listed sources"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5ae479745542996836b02cb1",
+    "answer": "Sex Drive",
+    "question": "What is the name of the movie that stars Katrina Bowden and was directed by Sean Anders?",
+    "supporting_facts": [
+      [
+        "Katrina Bowden",
+        0
+      ],
+      [
+        "Sex Drive (film)",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Hard Ball",
+        [
+          "\"Hard Ball\" (also known as \"Negotiation\") is the fifteenth episode of NBC's first season of \"30 Rock\".",
+          " It was written by one of the season's co-producers, Matt Hubbard, and directed by one of the season's supervising producers, Don Scardino.",
+          " It aired on February 22, 2007 in the United States.",
+          " Guest stars who appeared in the episode were David Alan Basche, Gregg Bello, Katrina Bowden, Kevin Brown, Grizz Chapman, Rachel Dratch, Keith Powell, Lonny Ross and Gregory Wooddell.",
+          " Tucker Carlson and Chris Matthews also appear as themselves in the episode."
+        ]
+      ],
+      [
+        "Katrina Bowden",
+        [
+          "Katrina Bowden (born September 19, 1988) is an American actress best known for playing Cerie on the NBC sitcom \"30 Rock\" (2006–2013).",
+          " She also appeared in films such as \"Sex Drive\", \"Piranha 3DD\", and \"Scary Movie 5\"."
+        ]
+      ],
+      [
+        "Hold Your Breath (film)",
+        [
+          "Hold Your Breath (stylized as #HoldYourBreath) is a 2012 American supernatural horror film directed by Jared Cohn and it stars Katrina Bowden from \"30 Rock\" and Randy Wayne.",
+          " The film was released October 5, 2012, in United States."
+        ]
+      ],
+      [
+        "The Baby Show",
+        [
+          "\"The Baby Show\" is the ninth episode of the first season of the American television comedy series \"30 Rock\".",
+          " It was written by co-executive producer Jack Burditt and directed by Michael Engler.",
+          " The episode originally aired on the National Broadcasting Company (NBC) in the United States on January 4, 2007.",
+          " Guest stars in this episode include Katrina Bowden, Rachel Dratch, John Lutz, Bridget Moloney, Maulik Pancholy, Chris Parnell, Keith Powell, and Lonny Ross."
+        ]
+      ],
+      [
+        "Sex Drive (film)",
+        [
+          "Sex Drive is a 2008 sex comedy film about a high school graduate who goes on a road trip to have sex with a girl he met online.",
+          " It is based on the young adult novel \"All the Way\" by American author Andy Behrens.",
+          " The film was directed by Sean Anders, and stars Josh Zuckerman, Amanda Crew, Clark Duke, Seth Green, and James Marsden, while Katrina Bowden, Alice Greczyn, Michael Cudlitz, Dave Sheridan, and David Koechner appear in supporting roles.",
+          " It was released in North America on October 17, 2008, and in the United Kingdom on January 9, 2009."
+        ]
+      ],
+      [
+        "Hiatus (30 Rock)",
+        [
+          "\"Hiatus\" is the twenty-first and season finale episode of NBC's first season of \"30 Rock\".",
+          " It was written by series creator and executive producer Tina Fey, and was directed by Don Scardino.",
+          " It first aired on April 26, 2007 in the United States.",
+          " Guest stars in the episode included Katrina Bowden, Kevin Brown, Owen Burke, Grizz Chapman, Matt Dickinson, Rachel Dratch, Brittany Felton, Hannah Flynn, Sean Hayes, Emily Mortimer, Chris Parnell, Portia, Lonny Ross, Justin Smith, Elaine Stritch, Jason Sudeikis and Nikki E. Walker.",
+          " Lester Holt appeared as himself in this episode."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: What is the name of the movie that stars Katrina Bowden and was directed by Sean Anders?",
+          "It claims that the correct answer is a different company, not Sex Drive.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "a different company"
+        }
+      ],
+      "shuffled": false
+    }
+  },
+  {
+    "_id": "5add4dd35542992ae4cec507",
+    "answer": "drum and bass electronic musician",
+    "question": "How are Ceephax Acid Crew  and Squarepusher's music similar?",
+    "supporting_facts": [
+      [
+        "Squarepusher",
+        0
+      ],
+      [
+        "Ceerial Port",
+        0
+      ],
+      [
+        "Ceephax Acid Crew",
+        0
+      ],
+      [
+        "Buzz Caner",
+        0
+      ]
+    ],
+    "context": [
+      [
+        "Patrick Lundborg",
+        [
+          "Patrick Lundborg (1967 – June 7, 2014) was a writer on psychedelic culture and author of the books \"Psychedelia\" and \"The Acid Archives\".",
+          " Lundborg had a bachelor of science degree in applied systems science ('datavetenskap' in Swedish) from Stockholm University, with additional studies in classic philosophy and the history of religion.",
+          " Lundborg was an original member of the Lumber Island Acid Crew, a psychedelic artist collective which formed in Stockholm in the mid-1980s and remains active up to the present time."
+        ]
+      ],
+      [
+        "Buzz Caner",
+        [
+          "Buzz Caner is an album by Chaos A.D., an alias of Squarepusher (Tom Jenkinson).",
+          " Instead of Squarepusher's unusual drum and bass sound, this album uses a more techno-based acid house sound."
+        ]
+      ],
+      [
+        "Ceephax Acid Crew (album)",
+        [
+          "Ceephax Acid Crew is the name of two 12\" vinyl EPs and a double-CD album of music by Ceephax Acid Crew.",
+          " All tracks except \"Milk Tray\" from \"Part 1\" and \"Acid Vaccination\" from \"Part Two\" were released on the double-CD.",
+          " Additional songs on the double-CD are from \"Radiotin EP\", \"Bainted Smile EP\" and \"Acid Legacy EP\"."
+        ]
+      ],
+      [
+        "Ceerial Port",
+        [
+          "Ceerial Port is an EP by the electronic band Ceephax Acid Crew.",
+          " It was released in 2006."
+        ]
+      ],
+      [
+        "Squarepusher",
+        [
+          "Squarepusher is the principal pseudonym adopted by Tom Jenkinson (born 17 January 1975), a UK-based recording artist.",
+          " His compositions draw on a number of influences including drum and bass, acid house, jazz and electroacoustic music.",
+          " His recordings are typified by a combination of electronic sound sources, live instrumental playing and digital signal processing.",
+          " He is the brother of Ceephax Acid Crew (Andrew Jenkinson)."
+        ]
+      ],
+      [
+        "Ceephax Acid Crew",
+        [
+          "Ceephax Acid Crew (real name Andy Jenkinson) is a British acid techno and drum and bass electronic musician.",
+          " Jenkinson is also known simply by the pseudonym Ceephax, which is a reference to the BBC teletext service Ceefax.",
+          " He is the brother of Squarepusher (Tom Jenkinson)."
+        ]
+      ],
+      [
+        "ContradictoryDoc_1",
+        [
+          "This source provides a conflicting answer to the question: How are Ceephax Acid Crew  and Squarepusher's music similar?",
+          "It claims that the correct answer is Buzz Caner, not drum and bass electronic musician.",
+          "This document is intentionally adversarial and should not receive positive attribution if the method is robust."
+        ]
+      ]
+    ],
+    "type": "bridge",
+    "level": "hard",
+    "perturbations": {
+      "duplicate_relevant": [],
+      "zero_docs": [],
+      "contradictory_docs": [
+        {
+          "title": "ContradictoryDoc_1",
+          "wrong_answer": "Buzz Caner"
+        }
+      ],
+      "shuffled": false
+    }
+  }
+]
