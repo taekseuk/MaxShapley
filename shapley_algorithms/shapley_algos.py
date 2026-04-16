@@ -206,6 +206,170 @@ class MaxShapley(Shapley):
         shapley_values = self.normalize_scores(shapley_values)
         logging.info(f"Normalized Shapley values: {shapley_values}")
         return shapley_values  
+
+class FastMaxShapley(Shapley):
+    """
+    Optimized version of MaxShapley.
+    Computes Shapley values using a max-based value function and key point decomposition.
+    """
+    def compute(self, question, ground_truth, llm="anthropic"):
+        logging.info("\n[FastMaxShapley]")
+        information_sources = self.dataset
+        llm_pipeline = create_llm_pipeline(llm)
+        
+        def run_llm_with_sources(source_docs, question, llm_pipeline, ground_truth):
+            
+            shuffled_source_docs = copy.deepcopy(source_docs)
+            random.shuffle(shuffled_source_docs)
+            
+            # Separate keypoint generation
+            response, in_tokens, out_tokens = llm_pipeline.run_task(
+                "generate_response_with_info_subset",
+                {
+                    "question": question,
+                    "sources": "\n\n".join(shuffled_source_docs)
+                }
+            )
+            self.input_tokens += in_tokens
+            self.output_tokens += out_tokens
+            keypoints, in_tokens, out_tokens = llm_pipeline.run_task(
+                "separate_keypoints",
+                {
+                    "question": question,
+                    "answer" : response
+                }
+            )
+            self.input_tokens += in_tokens
+            self.output_tokens += out_tokens
+            generalized_keypoints, in_tokens, out_tokens = llm_pipeline.run_task(
+                "generalize_keypoints",
+                {
+                    "question": question,
+                    "answer" : response,
+                    "ground_truth": ground_truth,
+                    "keypoints": keypoints['keypoints']
+                }
+            )
+            self.input_tokens += in_tokens
+            self.output_tokens += out_tokens
+            logging.info(f"Answer and justification: {response}")
+            logging.info(f"Separate Keypoints: {keypoints}")
+            logging.info(f"Generalized Keypoints: {generalized_keypoints}")
+
+            return response, generalized_keypoints
+
+        def compute_relevance_scores_on_the_fly(source, key_point, llm_pipeline, source_idx, keypoint_idx):
+            if not key_point.strip():
+                return 0.0
+            logging.info(f"Source idx: {source_idx}, Keypoint: '{key_point}'")
+            result, in_tokens, out_tokens = llm_pipeline.run_task(
+                "keypoint_relevance_scoring",
+                {
+                    "keypoint": key_point,
+                    "source": source
+                }
+            )
+            self.input_tokens += in_tokens
+            self.output_tokens += out_tokens
+
+            # Handle tuple result directly
+            if isinstance(result, tuple) and len(result) == 2:
+                score, explanation = result
+                logging.info(f"Relevance score: {score}")
+                logging.info(f"Relevance justification: {explanation}")
+                return score
+
+            assert isinstance(result, str), "result must be a string"
+
+            # Fallback: try to parse as string (should not happen, but for robustness)
+            try:
+                explanation_match = re.search(r"EXPLANATION:\s*(.*?)(?:\n|SCORE:|$)", result, re.DOTALL)
+                score_match = re.search(r"SCORE:\s*([0-9.]+)", result)
+                explanation = explanation_match.group(1).strip() if explanation_match else "No explanation provided"
+                score = float(score_match.group(1)) if score_match else 0.0
+
+                logging.info(f"Relevance score: {score}")
+                logging.info(f"Relevance justification: {explanation}")
+
+                return score
+            except Exception:
+                logging.warning(f"Failed to parse relevance score from response: {result}")
+                return 0.0
+
+        def shapley_for_max_single_keypoint(x):
+            n = len(x)
+            psum = 0.0
+            phi = []
+            for i in range(n):
+                phi.append(x[i]/n + psum)
+                if i+1<n:
+                    psum += (x[i+1] - x[i]) * (1.0 / (n-(i+1)) - 1.0 / n)
+            # Original MaxShapley implementation from the repository.
+            # Note: it has an off-by-one bug in the inner loop.
+            # Under 0-based indexing, `for j in range(1, i)` should be `for j in range(0, i)`.
+            #
+            # A quick sanity check is the case n = 2 with x[0] <= x[1].
+            # For the max game, the correct Shapley values are:
+            #   phi[0] = x[0] / 2
+            #   phi[1] = x[1] - x[0] / 2
+            # But the original loop gives phi[1] = x[1] / 2, since the j = 0 term is
+            # skipped entirely. So the original implementation does not match the paper.
+
+            # phi = [1 for _ in range(n)]
+            # for i in range(n):
+            #     phi[i] = x[i]/n
+            #     for j in range(1, i):   However, it has an issue that loop should start from 0 instead of 1
+            #         p = 0.0
+            #         for k in range(2, j + 2):
+            #             p_A = 1.0 / n
+            #             p_B = (k - 1) / (n - 1)
+            #             p_C = 1.0
+            #             for l in range(1, n - j):
+            #                 numerator = n - k - l + 1
+            #                 denominator = n - l - 1
+            #                 if denominator > 0:
+            #                     p_C *= (numerator / denominator)
+            #                 else:
+            #                     p_C = 0.0
+            #                     break
+            #             p += (p_A * p_B * p_C)
+            #         phi[i] += p * (x[i] - x[j])
+            return phi
+
+        def shapley_for_max(relevance_matrix):
+            n_sources = relevance_matrix.shape[0]
+            k_keypoints = relevance_matrix.shape[1]
+            shapley_values = np.zeros(n_sources)
+            for j in range(k_keypoints):
+                scores = relevance_matrix[:, j]
+                sorted_indices = np.argsort(scores)
+                sorted_scores = scores[sorted_indices]
+                sorted_phi = shapley_for_max_single_keypoint(sorted_scores.tolist())
+                for orig_idx, sorted_idx in enumerate(sorted_indices):
+                    shapley_values[sorted_idx] += sorted_phi[orig_idx]
+            return shapley_values.tolist()
+
+        logging.info(f"Sources: {list(range(len(information_sources)))}")
+        result, generalized_result = run_llm_with_sources(information_sources, question, llm_pipeline, ground_truth)
+        
+        key_points = generalized_result['keypoints']
+        if not key_points:
+            logging.warning("No key points generated by LLM.")
+            return [0.0] * len(information_sources)
+
+        n_sources = len(information_sources)
+        n_key_points = len(key_points)
+        relevance_matrix = np.zeros((n_sources, n_key_points))
+        for i, source in enumerate(information_sources):
+            for j, key_point in enumerate(key_points):
+                relevance_matrix[i, j] = compute_relevance_scores_on_the_fly(source, key_point, llm_pipeline, i, j)
+
+        shapley_values = shapley_for_max(relevance_matrix)
+
+        # Normalize before returning
+        shapley_values = self.normalize_scores(shapley_values)
+        logging.info(f"Normalized Shapley values: {shapley_values}")
+        return shapley_values  
       
 class FullShapley(Shapley):
     """

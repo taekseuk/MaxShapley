@@ -31,7 +31,8 @@ from shapley_algorithms.shapley_algos import (
     MonteCarloUniform,
     MonteCarloAntithetic,
     LeaveOneOut,
-    MaxShapley
+    MaxShapley,
+    FastMaxShapley
 )
 from shapley_algorithms.kernel_shap import run_kernel_shap
 from llm_pipeline import OPENAI_MODEL, ANTHROPIC_MODEL
@@ -172,7 +173,7 @@ def run_experiment(dataset, index, csv_path, llm, samples_u, samples_a, log_dir,
         raise Exception
     
     # Prepare CSV headers
-    shapley_methods = ['FullShapley', 'MaxShapley', 'MonteCarloUniform', 'MonteCarloAntithetic', 'LeaveOneOut']
+    shapley_methods = ['FullShapley', 'MaxShapley', 'FastMaxShapley', 'MonteCarloUniform', 'MonteCarloAntithetic', 'LeaveOneOut']
     new_headers = ['index', 'llm_model', 'rounds']
     for method in shapley_methods:
         new_headers += [f'{method}_shapley_{i}' for i in range(num_sources)]
@@ -313,6 +314,50 @@ def run_experiment(dataset, index, csv_path, llm, samples_u, samples_a, log_dir,
             print()
         except Exception:
             print(f"Issue running MaxShapley.\n")
+
+    # Run FastMaxShapley
+    if shapley_methods_to_run is None or any("FastMaxShapley" == k for k in shapley_methods_to_run):
+        try:
+            print("Running FastMaxShapley")
+            fastmaxshapley_log = os.path.join(log_dir, f"{dataset}_FastMaxShapley_{timestamp}.log")
+            logging.basicConfig(filename=fastmaxshapley_log, filemode='w', level=logging.INFO, format='%(message)s', force=True)
+            logging.info(dataset_and_index)
+            
+            # Run rounds
+            time_avg = 0
+            input_token_avg = 0
+            output_token_avg = 0
+            shap_avg = [0, 0, 0, 0, 0, 0]
+
+            for _ in range(rounds):
+                start_time = time.time()
+                fastmaxshap = FastMaxShapley(sources)
+                fastmax_values = fastmaxshap.compute(
+                    question=question,
+                    ground_truth=ground_truth,
+                    llm=llm
+                )
+                time_avg += (time.time() - start_time) / 3
+                input_token_avg += (fastmaxshap.input_tokens / 3)
+                output_token_avg += (fastmaxshap.output_tokens / 3)
+                for k in range(len(fastmax_values)):
+                    shap_avg[k] += fastmax_values[k]
+
+            shap_avg = normalize_scores(shap_avg)
+            
+            new_row['FastMaxShapley_execution_time'] = time_avg
+            new_row['FastMaxShapley_input_tokens'] = input_token_avg
+            new_row['FastMaxShapley_output_tokens'] = output_token_avg
+            for i in range(num_sources):
+                new_row[f'FastMaxShapley_shapley_{i}'] = shap_avg[i]
+
+            print(f"FastMaxShapley logs saved to {fastmaxshapley_log}")
+            print(f"FastMaxShapley execution time: {time_avg}")
+            for k in range(len(shap_avg)):
+                print(f"Source {k} shapley value: {shap_avg[k]}")
+            print()
+        except Exception:
+            print(f"Issue running FastMaxShapley.\n")
 
     # Run MonteCarloUniform
     if shapley_methods_to_run is None or any("MonteCarloUniform" == k for k in shapley_methods_to_run):
@@ -486,7 +531,7 @@ def main():
     parser.add_argument('--rounds', type=int, default=3, help='Number of rounds to run.')
     parser.add_argument('--samples_u', type=int, default=1, help='Samples for MonteCarloUniform (default: 1)')
     parser.add_argument('--samples_a', type=int, default=1, help='Samples for MonteCarloAntithetic (default: 1)')
-    parser.add_argument('--shapley_methods', nargs='+', type=str, default=None, help='Which Shapley implementations to run (e.g. FullShapley, MaxShapley MonteCarloUniform, MonteCarloAntithetic, KernelSHAP, LeaveOneOut)')
+    parser.add_argument('--shapley_methods', nargs='+', type=str, default=None, help='Which Shapley implementations to run (e.g. FullShapley, MaxShapley, FastMaxShapley, MonteCarloUniform, MonteCarloAntithetic, KernelSHAP, LeaveOneOut)')
     
     args = parser.parse_args()
     
